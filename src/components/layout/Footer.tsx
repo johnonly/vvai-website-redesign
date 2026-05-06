@@ -22,6 +22,7 @@ export default function Footer() {
                 width={120}
                 height={40}
                 className="object-contain"
+                style={{ height: 'auto' }}
               />
             </Link>
             <p className="text-text-secondary mb-6 max-w-xs text-sm">{tFooter('tagline')}</p>

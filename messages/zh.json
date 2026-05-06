@@ -143,7 +143,17 @@
     "bullets": [
       "完全集成的AI驱动平台，通过智能协作连接人员、业务、财务和运营",
       "统一工作空间，实现内部协调和外部运营执行的无缝集成"
-    ]
+    ],
+    "stats": {
+      "modules": "模块",
+      "coreSuites": "核心套件",
+      "partners": "合作伙伴",
+      "uptimeSla": "正常运行时间SLA"
+    },
+    "actions": {
+      "explorePlatform": "探索平台",
+      "seeItLive": "实时查看"
+    }
   },
   "security": {
     "label": "安全",

@@ -143,7 +143,17 @@
     "bullets": [
       "完全整合的AI驅動平台，透過智能協作連結人員、業務、財務和營運",
       "統一工作空間，實現內部協調和外部營運執行的無縫整合"
-    ]
+    ],
+    "stats": {
+      "modules": "模組",
+      "coreSuites": "核心套件",
+      "partners": "合作夥伴",
+      "uptimeSla": "正常運行時間SLA"
+    },
+    "actions": {
+      "explorePlatform": "探索平台",
+      "seeItLive": "即時查看"
+    }
   },
   "security": {
     "label": "安全",

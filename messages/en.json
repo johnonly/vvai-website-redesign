@@ -139,7 +139,17 @@
     "bullets": [
       "A Fully Integrated AI-Powered Platform, connecting people, business, finance, and operations through intelligent collaboration",
       "A Unified Workspace, enabling internal coordination and external operational execution with seamless integration"
-    ]
+    ],
+    "stats": {
+      "modules": "Modules",
+      "coreSuites": "Core Suites",
+      "partners": "Partners",
+      "uptimeSla": "Uptime SLA"
+    },
+    "actions": {
+      "explorePlatform": "Explore Platform",
+      "seeItLive": "See It Live"
+    }
   },
   "security": {
     "label": "Security",
