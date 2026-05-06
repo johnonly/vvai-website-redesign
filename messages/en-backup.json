@@ -38,7 +38,7 @@
     },
     "education": {
       "label": "Education",
-      "headline": "New AI-powered Collaborative Education Services",
+      "headline": "One-Stop AI-Powered Education Collaboration Platform for All Scenarios",
       "subline": "V V AI bridges home and school, creating a student-centered education ecosystem. It provides teachers with accurate learning analytic for personalized instruction, while giving parents timely, transparent updates on progress and evidence-based parenting advice—uniting both sides to support each child’s unique growth.",
       "keywords": "Collaborative · Private · Efficient · Targeted"
     },
@@ -298,7 +298,7 @@
       },
       {
         "value": "3",
-        "label": "i18n Locales"
+        "label": "Languages Supported"
       },
       {
         "value": "99.9%",
@@ -783,7 +783,7 @@
     },
     "securityBadge": {
       "title": "Security & Compliance",
-      "certs": ["ISO 27001", "GDPR", "SOC 2", "E2E Encrypted"]
+      "certs": ["ISO 27001", "GDPR", "E2E Encrypted"]
     }
   },
   "demo": {
@@ -1056,7 +1056,7 @@
       {
         "id": "account",
         "heading": "3. Account Registration",
-        "body": "To access certain features, you must create an account. You agree to: (a) provide accurate, current, and complete information; (b) maintain the security of your credentials; (c) promptly notify us of any unauthorised access; and (d) accept responsibility for all activities under your account.\n\nVV AI reserves the right to suspend or terminate accounts that violate these Terms."
+        "body": "To access certain features, you must create an account. You agree to: (a) provide accurate, current, and complete information; (b) maintain the security of your credentials; (c) promptly notify us of any unauthorised access; and (d) accept responsibility for all activities under your account.\n\nV V AI reserves the right to suspend or terminate accounts that violate these Terms."
       },
       {
         "id": "acceptable-use",
@@ -1377,10 +1377,6 @@
           "sub": "End-to-End"
         },
         {
-          "label": "SOC 2",
-          "sub": "Type II"
-        },
-        {
           "label": "99.9% Uptime",
           "sub": "SLA Guarantee"
         }
@@ -1488,8 +1484,8 @@
         },
         {
           "icon": "🧠",
-          "title": "AI Tutor",
-          "description": "Personalised AI-powered learning assistance that adapts to each student's pace and unique style."
+          "title": "AI Teaching Assistant",
+          "description": "Personalised AI-powered teaching assistance that adapts to each student's pace and unique style."
         },
         {
           "icon": "📋",
@@ -1777,6 +1773,10 @@
       "ai-tutor": {
         "name": "AI Tutor",
         "description": "Personalised AI-powered learning assistance"
+      },
+      "ai-study-companion": {
+        "name": "AI Study Companion",
+        "description": "Always-on study support for practice and revision"
       },
       "life-assistant": {
         "name": "AI Life Assistant",

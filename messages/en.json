@@ -24,7 +24,7 @@
   },
   "hero": {
     "headline": "V V AI Connects Enterprises and Individuals to Enable True Human–AI Collaboration and Co-creation",
-    "subheadline": "V V AI- Redefining Connections， Acting on Your Words. ",
+    "subheadline": "V V AI-Redefining Connections， Acting on Your Words. ",
     "cta_primary": "Try for Free",
     "cta_secondary": "Book a Demo"
   },
@@ -38,7 +38,7 @@
     },
     "education": {
       "label": "Education",
-      "headline": "New AI-powered Collaborative Education Services",
+      "headline": "One-Stop AI-Powered Education Collaboration Platform for All Scenarios",
       "subline": "V V AI bridges home and school, creating a student-centered education ecosystem. It provides teachers with accurate learning analytic for personalized instruction, while giving parents timely, transparent updates on progress and evidence-based parenting advice—uniting both sides to support each child’s unique growth.",
       "keywords": "Collaborative · Private · Efficient · Targeted"
     },
@@ -208,7 +208,7 @@
     }
   },
   "cta": {
-    "headline": "V V AI — Redefining Connections, Acting on Your Words",
+    "headline": "V V AI—Redefining Connections, Acting on Your Words",
     "subheadline": "Join thousands of enterprises and individuals already transforming how they work, learn, live, and stay healthy.",
     "bookDemo": "Book a Demo",
     "tryFree": "Try for Free",
@@ -308,7 +308,7 @@
       },
       {
         "value": "3",
-        "label": "i18n Locales"
+        "label": "Languages Supported"
       },
       {
         "value": "99.9%",
@@ -341,8 +341,8 @@
         },
         {
           "year": "2021",
-          "label": "Education Suite",
-          "detail": "Launched AI-powered home-school collaboration platform"
+          "label": "V V Work Suite 2.0",
+          "detail": "Upgraded to 35+ core collaboration modules with multi-language support"
         },
         {
           "year": "2022",
@@ -351,23 +351,23 @@
         },
         {
           "year": "2023",
-          "label": "Life & Health",
-          "detail": "Expanded to personal AI: Life Suite and Health Suite"
+          "label": "Education Collaboration Platform",
+          "detail": "Launched AI-driven one-stop education collaboration platform"
         },
         {
           "year": "2024",
           "label": "100+ Partners",
-          "detail": "Education partner ecosystem reaches 100+ institutions"
+          "detail": "Partner ecosystem surpasses 100+ enterprises"
         },
         {
           "year": "2025",
-          "label": "AI Engine 2.0",
-          "detail": "Next-generation multi-modal AI assistant rolled out"
+          "label": "Global Strategy Upgrade and V V AI Engine 2.0 Launch",
+          "detail": "Next-generation multi-modal AI assistant fully rolled out, expanded to personal AI: Life services and health management"
         },
         {
           "year": "2026",
-          "label": "Global Expansion",
-          "detail": "Scaling across APAC — more regions coming soon"
+          "label": "Upgraded V V Work Management and V V Education Collaboration to AI Agent-driven All-in-One Super Platform",
+          "detail": "Accelerating APAC deployment — more regions coming soon"
         }
       ]
     },
@@ -762,8 +762,12 @@
       "title": "Contact Details",
       "items": [
         {
-          "label": "Headquarters",
-          "value": "Singapore"
+          "label": "Singapore HQ",
+          "value": "12 Marina View #25-04\nAsia Square Tower 2\nSingapore 018961"
+        },
+        {
+          "label": "Hong Kong Office",
+          "value": "3902, Enterprise Square Three, No.39\nWang Chiu Road, Kowloon Bay\nKowloon, Hong Kong"
         },
         {
           "label": "Email",
@@ -798,7 +802,7 @@
     },
     "securityBadge": {
       "title": "Security & Compliance",
-      "certs": ["ISO 27001", "GDPR", "SOC 2", "E2E Encrypted"]
+      "certs": ["ISO 27001", "GDPR", "E2E Encrypted"]
     }
   },
   "demo": {
@@ -1054,74 +1058,89 @@
     "hero": {
       "badge": "Legal",
       "title": "Terms of Service",
-      "lastUpdated": "Last updated: March 29, 2026"
+      "lastUpdated": "Last updated: March 2025"
     },
     "toc": "Contents",
     "sections": [
       {
-        "id": "acceptance",
-        "heading": "1. Acceptance of Terms",
-        "body": "By accessing or using any V V AI product or service (collectively, the \"Service\") operated by V V Technology Pte. Ltd. (\"V V AI\", \"we\", \"us\", or \"our\"), you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree to these Terms, you may not use the Service.\n\nYou must be at least 18 years of age, or the legal age of majority in your jurisdiction, to use the Service. By using the Service, you represent and warrant that you meet this requirement."
+        "id": "important-notice",
+        "heading": "Important Notice",
+        "body": "Before accessing or using any products or services operated and/or managed by V V Technology Pte Ltd and/or its affiliates (hereinafter \"V V\" or \"we\"), including the V V AI application software, websites (including vvai.com), hardware and related services and functions, please read carefully and comply with this Agreement (including the Service Agreement and Privacy Policy).\n\nWhen you complete all registration procedures by filling in information on the registration page as prompted, reading and agreeing to this Agreement; or when you complete all activation procedures by filling in information on the activation page as prompted, reading and agreeing to this Agreement; or when you actually use our Services in any other manner permitted by V V, it means that you have fully read, understood and accepted all terms of this Agreement, which shall be legally binding. If you do not agree with all of these Terms, do not register for, activate, or use the Services."
       },
       {
-        "id": "description",
-        "heading": "2. Description of Service",
-        "body": "V V AI provides an AI-powered platform comprising multiple product suites — including V V Work, V V Education, V V Life, and V V Health — designed to assist individuals and organisations with productivity, collaboration, education, lifestyle management, and health management.\n\nWe reserve the right to modify, suspend, or discontinue any part of the Service at any time with reasonable notice."
+        "id": "parties",
+        "heading": "I. Parties",
+        "body": "This Agreement is entered into between you (hereinafter \"User\" or \"you\") using V V Products or Services and us."
       },
       {
-        "id": "account",
-        "heading": "3. Account Registration",
-        "body": "To access certain features, you must create an account. You agree to: (a) provide accurate, current, and complete information; (b) maintain the security of your credentials; (c) promptly notify us of any unauthorised access; and (d) accept responsibility for all activities under your account.\n\nVV AI reserves the right to suspend or terminate accounts that violate these Terms."
+        "id": "agreement-content",
+        "heading": "II. Content and Effectiveness of Agreement",
+        "body": "2.1 The content of this Agreement includes the main body of the Agreement and the Privacy Policy, various policies, rules, statements, notices, warnings, tips, instructions (hereinafter collectively referred to as \"Rules\") that we have published or may publish in the future. The above Rules are an integral part of this Agreement and have the same legal effect as this Agreement.\n\n2.2 V V reserves the right to revise this Agreement and related Rules from time to time as necessary. The revised Agreement and Rules will replace the original ones upon taking effect. You should regularly review this Agreement and related Rules to understand any changes. If you disagree with any revision, you shall immediately stop using V V's products or services; if you continue to use V V's products or services, it shall be deemed that you have agreed to accept the revised Agreement and Rules."
       },
       {
-        "id": "acceptable-use",
-        "heading": "4. Acceptable Use",
-        "body": "You agree not to use the Service to: (a) violate any applicable laws or regulations; (b) transmit malicious code, spam, or unauthorised advertising; (c) attempt to gain unauthorised access to our systems; (d) infringe upon third-party intellectual property rights; (e) harass, threaten, or harm other users; or (f) interfere with the integrity or performance of the Service.\n\nViolation of this section may result in immediate termination of your account."
+        "id": "service-contents",
+        "heading": "III. Service Contents",
+        "body": "3.1 V V Products and Services include recruitment management, human resources and organization management, financial management and other technical functions. These functions may be optimized or modified according to changes in user needs, different service versions, or unilateral decisions of service providers, and may also be temporarily suspended due to regular or irregular maintenance.\n\n3.2 V V will continuously improve the terminals, formats, etc., through which you use this Service. Once you have registered for one Service, you can use other Services through the same account. This Agreement automatically applies to your use of all versions of software and services (except for modules requiring separate payment).\n\n3.3 V V has the right to change, upgrade, modify or transfer any part of the Services or their related functions and application software at its own discretion.\n\n3.4 With written authorization from an enterprise organization, you can apply for an administrator account on behalf of that enterprise. After approval by V V, you can use that administrator account to upload and manage enterprise address books, and realize internal work interaction, collaborative office and other functions through V V's products or services."
       },
       {
-        "id": "data",
-        "heading": "5. Data & Privacy",
-        "body": "Your use of the Service is also governed by our Privacy Policy, which is incorporated into these Terms by reference. We are committed to protecting your data in accordance with GDPR and applicable Singapore data protection laws (PDPA). V V AI is ISO 27001 certified.\n\nYou retain ownership of all data you input into the Service. By using the Service, you grant V V AI a limited licence to process your data solely to provide and improve the Service."
+        "id": "registration",
+        "heading": "IV. Registration & Account Management",
+        "body": "4.1 You confirm that when you complete the registration procedure or otherwise actually use the Service in a manner permitted by V V Technology, you shall have full civil capacity and civil conduct capacity commensurate with the civil act you engage in. If you do not possess the aforementioned qualifications, please do not use the Service; otherwise you and your guardian (if applicable) shall bear all consequences arising therefrom, and V V has the right to cancel your account and reserve the right to pursue liability against you or your guardian.\n\n4.2 You may register your account using a mobile phone number you provide or confirm, or through other methods permitted by V V. When registering, you shall provide authentic, accurate, complete and current identity and other relevant information. You understand and agree that your account name, avatar, profile and other information shall not contain illegal or inappropriate content, nor impersonate any person or entity, nor use anyone else's name without authorization.\n\n4.3 You acknowledge and agree that ownership of any V V account (including client accounts and administrator accounts, if applicable) belongs exclusively to V V. Upon completion of registration, you only obtain the right to use the account, which is subject to the terms of this Agreement. The right of use is limited only to the initial applicant for registration and shall not be transferred or provided to others in any way. In case of violation of this provision, V V has the right to immediately terminate the provision of services and cancel the account.\n\n4.4 Upon successful registration, V V will verify your identity based on your identity information and authorize login. \"Identity information\" includes but is not limited to your account name, password, SMS verification code, mobile phone number and ID information. You agree that V V may adopt different verification measures to verify your identity depending on different terminals and your usage habits. Please keep safe your account, password, SMS verification code and other information, and do not disclose them to others.\n\n4.5 When you register for a V V account and use our products or services, we will collect personal information such as your name, gender, age, ID number, passport information, telephone number, email address, identity verification information, location information and log information, subject to your consent and as necessary for providing the services.\n\n4.6 If you cancel your V V account or stop using the Service, V V has the right to handle account-related content and information (including but not limited to deletion) at its own discretion, without assuming any responsibility to you; if the account is an administrator account, V V has the right to cancel and delete that administrator account and all information and rights of address book members under that enterprise."
       },
       {
-        "id": "ip",
-        "heading": "6. Intellectual Property",
-        "body": "All intellectual property in the Service — including software, designs, trademarks, and content — is owned by V V Technology Pte. Ltd. or its licensors. You are granted a non-exclusive, non-transferable, revocable licence to use the Service for its intended purpose.\n\nYou may not copy, modify, distribute, reverse-engineer, or create derivative works from any part of the Service without prior written consent."
+        "id": "usage-guidelines",
+        "heading": "V. Usage Guidelines for Products and Services",
+        "body": "5.1 You fully understand and agree that V V only provides a service platform for users, and you shall be responsible for all acts conducted and results arising from utilizing the Service. Accordingly, you should understand that using V V Products or Services may bring risks from illegal or improper acts (or information) by others; you should make your own judgment and action, and assume corresponding risks yourself.\n\n5.2 You shall bear all expenses incurred from using V V Products or Services, including but not limited to Internet traffic fees, communication service fees, etc.\n\n5.3 You undertake not to use V V Products or Services to carry out any illegal or improper activities, including but not limited to the following:\n\n5.3.1 Uploading, transmitting or sharing information containing any of the following contents:\n(a) Opposing the basic principles established by the Constitution;\n(b) Endangering national security, leaking state secrets, subverting state power, or undermining national unity;\n(c) Damaging national honor and interests;\n(d) Inciting ethnic hatred or discrimination, or undermining ethnic unity;\n(e) Undermining national religious policies, propagating cults and superstition;\n(f) Spreading rumors, disturbing social order, or undermining social stability;\n(g) Distributing pornographic, obscene, gambling, violent, terrorist or criminal content;\n(h) Insulting or slandering others, infringing upon others' legitimate rights;\n(i) Containing false, fraudulent, harmful, coercive, privacy-infringing, harassing, defamatory, vulgar, obscene or morally offensive content;\n(j) Containing content restricted or prohibited by applicable laws, regulations, rules or legally binding norms in your jurisdiction;\n\n5.3.2 Impersonating any person or entity, or falsely claiming association with any person or entity;\n\n5.3.3 Forging titles or manipulating identification data in such a way as to cause the content to appear to have been transmitted by V V or its affiliate(s);\n\n5.3.4 Uploading, transmitting or sharing any content known through legal or contractual relationships but unauthorized for transmission (e.g., internal, proprietary or confidential materials);\n\n5.3.5 Uploading, transmitting or sharing content suspected of infringing others' rights (including but not limited to copyrights, patents, trademarks, trade secrets and other intellectual property rights);\n\n5.3.6 Tracking or harassing others in any manner, or sending large amounts of messages to friends or other users through V V Products or Services;\n\n5.3.7 Uploading, transmitting or sharing any advertising, promotional materials, \"spam\", \"junk mail\", \"chain letters\", \"direct marketing\" or other forms of solicitation materials, except where dedicated areas or functions exist for such purposes;\n\n5.3.8 Using the Service for purposes including but not limited to nuclear facilities, military purposes, medical facilities, transportation/communications or other important fields for which the Software or Service was not designed; V V shall not be liable for any casualties, property damage or environmental damage caused by failure of operations due to the Software or Service;\n\n5.3.9 Engaging in any behavior beyond normal internal or external information communication among friends or users;\n\n5.3.10 Forming friendship relationships with other users for purposes beyond normal internal or external communication (including but not limited to sending advertisements, spam, harassment information or information violating laws and regulations), by adding or inducing others to add you in any manner;\n\n5.3.11 Engaging in any behavior violating laws, regulations, rules, policies and normative documents.\n\n5.4 You undertake not to engage in the following behaviors regarding this Software and Service:\n\n5.4.1 Uploading, posting, sending via email or otherwise transmitting data containing computer viruses or other codes, files or programs that interfere with, damage or restrict the functions of any computer software, hardware or communications equipment;\n\n5.4.2 Interfering with or damaging V V Products or Services or servers and networks connected to V V Products or Services, or violating any regulations, procedures, policies or norms regarding network connection for this Service;\n\n5.4.3 Modifying or forging commands or data during Software operation, adding, deleting or changing functions or operation effects of the Software, or operating or disseminating Software or methods for the above-mentioned purposes to the public, whether for commercial purposes or not;\n\n5.4.4 Logging into or using the Software and Services through third-party Software, plug-ins, add-ons or systems not developed or authorized by V V, or producing, publishing or disseminating the above tools;\n\n5.4.5 Personally, authorizing others or using third-party Software to interfere with this Software and its components, modules or data.\n\n5.5 You agree to strictly comply with this Agreement when using V V Products or Services.\n\n5.6 You agree and accept that V V has the right to inspect and supervise your usage of the Service and take corresponding actions, including but not limited to deleting information, suspending or terminating the Service, and reporting to relevant authorities.\n\n5.7 You undertake not to use V V Products or Services in any form to infringe upon V V's commercial interests or engage in any behavior that may cause damage to V V or be unfavorable to V V.\n\n5.8 You understand and agree that during your use of V V Products or Services, V V and its affiliates themselves or through other third-party partners may send you advertising, promotional or publicity information (including commercial or non-commercial information); V V will fulfill relevant obligations to advertisers in accordance with the law, and you shall independently judge the authenticity and reliability of advertising information and be responsible for your own judgment.\n\n5.9 If you apply for an administrator or sub-administrator account on behalf of an enterprise, and you add, designate or change administrators and/or sub-administrators, you shall be responsible for the actions of these members; you shall also be responsible for consequences arising from modifications made to V V Products or Services through exercise of administrator account management authority, and shall compensate V V for all losses thus incurred.\n\n5.10 You fully understand and agree that you must be responsible for lawful use of all content accessed through V V Products or Services, and for all risks arising from using such content, including reliance risks regarding accuracy, completeness or usefulness of the content. V V cannot and will not be liable for any loss resulting from the above-mentioned risks.\n\n5.11 If V V Technology discovers or receives reports that you have violated this Agreement, V V Technology may at its sole discretion delete and/or block any content provided by you on your account at any time without prior notice, and take further measures it deems appropriate, including but not limited to legal measures, suspending, terminating or reclaiming your account, restricting, suspending or terminating all or partial access to or use of V V Products or Services."
       },
       {
-        "id": "payment",
-        "heading": "7. Fees & Payment",
-        "body": "Certain features of the Service require a paid subscription. All fees are stated in Singapore Dollars (SGD) or US Dollars (USD) as indicated. Subscriptions renew automatically unless cancelled at least 24 hours before the renewal date.\n\nWe reserve the right to change pricing with 30 days' notice. Continued use after a price change constitutes acceptance."
+        "id": "service-fees",
+        "heading": "VI. Service Fees",
+        "body": "6.1 Any free trial function or Service shall not be deemed a waiver by V V of subsequent charging rights. V V will notify you of charging standards and methods by announcement within specific V V Service applications, or by telephone, SMS, email or other means. If you continue using relevant functions or Services, you must pay corresponding fees according to charging standards announced by V V.\n\n6.2 All fees must be paid in advance through payment methods accepted by V V. The above usage fees do not include any other taxes, fees or related remittance expenses, which shall be borne by you separately.\n\n6.3 V V has the right to unilaterally adjust fee standards and charging methods according to actual circumstances, and will notify you by announcement within relevant Service applications or by telephone, SMS, email or other means, without needing to obtain your prior consent. If you disagree with the charges, you shall immediately stop using the Service; continued use shall be deemed acceptance and obligation to pay fees."
       },
       {
-        "id": "disclaimer",
-        "heading": "8. Disclaimer of Warranties",
-        "body": "THE SERVICE IS PROVIDED \"AS IS\" AND \"AS AVAILABLE\" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.\n\nWe do not warrant that the Service will be uninterrupted, error-free, or free of viruses or other harmful components."
+        "id": "intellectual-property",
+        "heading": "VII. Intellectual Property Rights",
+        "body": "7.1 All intellectual property rights relating to relevant Software, technology, trademarks, copyrights etc. of V V Products or Services, and all information content associated with V V Products or Services (including but not limited to text, images, audio, video, charts, interface design, layout framework, relevant data or electronic documents, etc.) belong to V V or are authorized for use by V V, protected by law. Without prior written consent or authorization from V V, you may not in any form copy, disseminate, display, publish or release any of the above content yourself or license others to do so.\n\n7.2 You understand and agree that content you post or upload while using V V Products or Services (including but not limited to texts, images, videos, audio and other forms of content and materials contained therein including music, sound, dialogue, visual images and other materials) shall not infringe any third-party rights, including intellectual property rights and reputation rights.\n\n7.3 You understand and agree that with respect to content created or provided by you during the process of using V V Products or Services, you grant V V a global, free, irrevocable, non-exclusive, sublicensable right and license so that V V has the right to use, display, reproduce, modify, adapt, publish and distribute such content for the purpose of providing V V Services, including use in future V V Products and Services.\n\n7.4 You confirm and guarantee that you have lawful rights to content you post or upload; otherwise, V V has the right to deal with such content in accordance with this Agreement, and you agree that any legal consequences arising thereby shall be borne solely by you."
       },
       {
-        "id": "liability",
-        "heading": "9. Limitation of Liability",
-        "body": "TO THE MAXIMUM EXTENT PERMITTED BY LAW, V V TECHNOLOGY PTE. LTD. SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING FROM YOUR USE OF THE SERVICE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\n\nOur total liability to you for any claim arising from these Terms shall not exceed the amount you paid to V V AI in the twelve (12) months preceding the claim."
+        "id": "privacy-policy",
+        "heading": "VIII. Privacy Policy",
+        "body": "We collect, use, store and share your personal information in accordance with V V's Privacy Policy. Please read and understand V V's Privacy Policy."
       },
       {
         "id": "termination",
-        "heading": "10. Termination",
-        "body": "Either party may terminate this agreement at any time. Upon termination, your right to use the Service ceases immediately. We may retain your data for up to 90 days post-termination to allow export, after which it will be permanently deleted in accordance with our data retention policy."
+        "heading": "IX. Termination",
+        "body": "9.1 V V may at its sole discretion cease providing V V Products or Services to you at any time for any reason, including your breach of this Agreement, without assuming any liability to you.\n\n9.2 You may stop using V V Products or Services at any time, cancel your account, and notify V V in advance; V V will process your cancellation request as soon as possible. Once a cancellation request is accepted, it cannot be revoked. You understand and agree that after acceptance of a cancellation request, V V has the right to handle account-related content and information (including but not limited to deletion) at its discretion without assuming any liability to you, and relevant services will terminate immediately.\n\n9.3 After termination of this Agreement, if explicitly required by law, V V shall still maintain confidentiality obligations with respect to certain information previously entrusted to V V by you."
       },
       {
-        "id": "governing-law",
-        "heading": "11. Governing Law",
-        "body": "These Terms shall be governed by and construed in accordance with the laws of Singapore, without regard to conflict of law principles. Any dispute arising from these Terms shall be submitted to the exclusive jurisdiction of the courts of Singapore."
+        "id": "force-majeure",
+        "heading": "X. Force Majeure",
+        "body": "You understand and agree that during the process of using V V Products or Services, you may encounter force majeure risk factors causing interruption or termination of V V Products or Services. Force majeure refers to objective events that cannot be foreseen, overcome or avoided and that cause material impact on one or both parties, including but not limited to natural disasters such as floods, earthquakes, epidemics and storms, and social events such as wars, turmoil, government actions, etc. In the event of the above circumstances, V V will endeavor to cooperate with relevant units at the earliest possible time to achieve timely repairs; however, losses thus caused to you shall be exempted from V V's liability to the extent permitted by applicable laws and regulations."
       },
       {
-        "id": "changes",
-        "heading": "12. Changes to Terms",
-        "body": "We may update these Terms from time to time. We will notify you of material changes via email or in-app notification at least 14 days before they take effect. Continued use of the Service after the effective date constitutes acceptance of the revised Terms."
+        "id": "third-party-services",
+        "heading": "XI. Third-Party Services",
+        "body": "11.1 V V may provide partner service content within its Products or Services. With respect to partner service content, V V makes no express or implied warranty and assumes no joint legal liability. When using partner services, please comply with partner agreements or terms.\n\n11.2 V V's Products or Services use third-party SDKs or similar applications, and the purpose and scope of collection and use of your information by these third-party services may differ from those of V V. When using third-party services, please read and understand relevant third-party agreement terms and privacy policies."
       },
       {
-        "id": "contact",
-        "heading": "13. Contact",
-        "body": "For questions about these Terms, please contact us at:\n\nVV Technology Pte. Ltd.\nSingapore\nEmail: legal@vvai.com"
+        "id": "disclaimer",
+        "heading": "XII. Disclaimer of Liability",
+        "body": "12.1 V V makes no warranty or statement whether V V Products or Services meet your specific needs. To the maximum extent permitted by law, V V does not warrant or guarantee that operation of V V Products or Services will not be interrupted or contain errors, nor guarantees that defects and errors can be corrected, nor guarantees that V V Products or Services satisfy all your requirements.\n\n12.2 V V does not guarantee security of V V Products or Services on your specific terminal, nor states or warrants that content provided through V V Products or Services does not contain computer viruses or other destructive code.\n\n12.3 V V shall not be responsible for: (i) the accuracy, completeness or applicability of any User Generated Content (UGC) you provide or use; (ii) any actions or recommendations based on such UGC.\n\n12.4 To the extent permitted by applicable laws and regulations, V V assumes no liability under any circumstances or for any reason, even if V V has been advised of the possibility of such causes of action, including but not limited to direct damages, indirect damages, special damages, consequential damages or economic losses arising from or relating to the following circumstances:\n\n12.4.1 Any access to, use of, or inability to access or use V V Products or Services or third-party services, including situations relating to maintenance, faults, errors or unavailability of any V V Products or Services;\n\n12.4.2 Your use or abuse of V V Products or Services or third-party services;\n\n12.4.3 Defects, errors, imperfections, faults, mistakes or inaccuracies of V V Products or Services or third-party services, and their content or related services;\n\n12.4.4 Errors, omissions or loss in any information, data or other content (including content uploaded, posted or otherwise transmitted by you through use of V V Products or Services) (hereinafter \"Content\");\n\n12.4.5 Use of, access to, or denial of access to any Content;\n\n12.4.6 Deletion, damage, transmission or failure to store any Content;\n\n12.4.7 Any system, server or connection fault, error, omission, interruption, transmission delay, undelivered messages, computer problems (or other access or electronic devices, including but not limited to mobile phones, smartphones and PDAs), computer viruses or other malicious, destructive or damaging code, agent programs or macros;\n\n12.4.8 Expenses arising from purchasing or obtaining any products, samples, data or information through V V Products or Services or third-party services, or conducting transactions, or through other alternative acts;\n\n12.4.9 Unauthorized data storage, modification or transmission;\n\n12.4.10 Any services, products, information, data, software or other materials obtained through V V Products or Services or third-party services, or results from use of, dependence on V V Products or Services or third-party services or their content;\n\n12.4.11 Statements or acts conducted by third parties through V V Products or Services or third-party services;\n\n12.4.12 Damage arising from other matters relating to V V Products or Services or third-party services, including negligence.\n\n12.5 To the maximum extent permitted by law, any dispute between you and any third party arising from use of V V Products or Services, including but not limited to any operator, copyright holder or other user, shall be a direct dispute between you and such third party, and you irrevocably release V V and its affiliates from all claims for compensation and damages (whether actual or consequential), whether known or unknown, in connection with such disputes.\n\n12.6 You fully understand and agree that, given characteristics of the internet system and environment, information and personal data you share in the Service may possibly be copied, reproduced, tampered with or used for other illegal purposes by others; you have here fully recognized existence of such risks and confirm that such risks shall be entirely borne by you, and V V assumes no liability whatsoever.\n\n12.7 You understand and agree that during the process of using the Service, there may be risks of threatening, defamatory, objectionable or illegal content or acts or infringement upon others' rights (including intellectual property rights) from any person, as well as anonymous or falsified information; based on the Service Usage Guidelines stated above, such risks shall be borne by you, and V V assumes no liability whatsoever."
+      },
+      {
+        "id": "breach-liability",
+        "heading": "XIII. Breach Liability and Indemnification",
+        "body": "13.1 If V V discovers or receives reports that you have violated this Agreement, V V has the right, without affecting its legal rights, to delete and/or block your user content at any time without notifying you, and take further measures determined by V V itself, including but not limited to restricting, suspending or terminating your right to use your account and the Service, restricting, suspending or terminating all or partial functions of V V Products or Services (including but not limited to removing connections with related contacts, deleting relevant data, documents, history and other content).\n\n13.2 You agree that if any third party makes any claim or demand against V V and/or its affiliates due to information you upload, transmit or share through V V Products or Services, other functions you use of V V Products or Services, your breach of this Agreement or infringement upon any other person's rights, or if V V and/or its affiliates suffer any loss as a result, you shall indemnify them in full (including but not limited to reasonable attorneys' fees)."
+      },
+      {
+        "id": "effective-notices",
+        "heading": "XIV. Effective Notices",
+        "body": "14.1 Any notice sent by V V to you may be delivered through multiple channels, including email, public announcements in designated areas of the Platform, personal online notifications, mobile SMS or ordinary mail, etc., and such notice shall be deemed delivered or effective within seven (7) days from the date of sending.\n\n14.2 You agree that any notice you send to V V shall be delivered through online or offline contact addresses, mailing addresses, emails or other notification methods publicly announced by V V Technology or otherwise approved by V V Technology."
+      },
+      {
+        "id": "miscellaneous",
+        "heading": "XV. Miscellaneous",
+        "body": "15.1 This Agreement and any disputes or claims arising out of or relating to this Agreement shall be governed by Singapore law. Any dispute, controversy or claim arising out of or relating to this Agreement (whether contractual, tortious or otherwise), including its existence, validity, interpretation, performance, breach or termination, shall be referred to and finally resolved by arbitration administered by the Singapore International Arbitration Centre (\"SIAC\") in accordance with the SIAC Arbitration Rules then in force, which rules are deemed to be incorporated by reference into this clause. The seat of arbitration shall be Singapore, the number of arbitrators shall be one (1), and the language of arbitration shall be English.\n\n15.2 V V does not guarantee that any V V Product or Service is suitable or available for use in any other location, and access to such V V Products or Services from locations where content may be illegal is prohibited. Users choosing to access V V Products or Services from other locations do so entirely at their own risk and are responsible for compliance with applicable local laws. In regions where prohibited by law, this Agreement is void, and rights to access V V Products or Services in such regions shall be revoked. You agree that if you become located in such regions, you will immediately stop accessing or using V V Products or Services.\n\n15.3 If any provision of this Agreement is held invalid or unenforceable, such provision may be severed and the remaining provisions shall continue in full force and effect.\n\n15.4 Any waiver by V V of its rights in respect of your breach of this Agreement shall not be construed as waiver of any other or subsequent similar breach(es) by you.\n\n15.5 This Agreement supersedes all prior oral and written agreements, arrangements, understandings and communications between the Parties regarding the subject matter hereof.\n\n15.6 You understand and agree that V V Technology has the right, pursuant to its business strategy and requirements, to transfer all rights and obligations under this Agreement to its affiliates or other third parties. After such transfer, this Agreement shall remain legally binding on each Party and their respective successors and assigns.\n\n15.7 If any provision of this Agreement becomes wholly or partially invalid or unenforceable for any reason, the remaining provisions of this Agreement shall remain valid and binding.\n\n15.8 You hereby confirm and declare that you have carefully read and fully understood the terms of this Agreement and accept all of the foregoing terms and conditions.\n\n15.9 This Agreement is executed in English and may be translated into various language versions other than English. Where there is any conflict between the English version and any translation, to the maximum extent permitted by applicable law, the English version shall prevail, unless expressly stated otherwise in the applicable translation version."
       }
     ]
   },
@@ -1387,10 +1406,6 @@
           "sub": "End-to-End"
         },
         {
-          "label": "SOC 2",
-          "sub": "Type II"
-        },
-        {
           "label": "99.9% Uptime",
           "sub": "SLA Guarantee"
         }
@@ -1498,8 +1513,8 @@
         },
         {
           "icon": "🧠",
-          "title": "AI Tutor",
-          "description": "Personalised AI-powered learning assistance that adapts to each student's pace and unique style."
+          "title": "AI Teaching Assistant",
+          "description": "Personalised AI-powered teaching assistance that adapts to each student's pace and unique style."
         },
         {
           "icon": "📋",
@@ -1530,6 +1545,24 @@
       "tagline": "Digital · Convenient · Comprehensive · Connected",
       "keywords": ["Digital", "Convenient", "Comprehensive", "Connected"],
       "ctaLabel": "Explore V V Life",
+      "screenshots": [
+        {
+          "headline": "Life assistant home",
+          "subtitle": "Your intelligent life hub that understands your preferences, learns your routines, and proactively organizes everything you need — from daily tasks to personal goals. V V Life turns your intentions into instant actions with natural language commands, creating a seamless experience where technology serves you invisibly."
+        },
+        {
+          "headline": "Life services",
+          "subtitle": "Access a curated ecosystem of lifestyle services — dining, travel, home care, finance, and more — all integrated in one place. With smart recommendations based on your habits and preferences, finding and booking the right service is always just one tap away."
+        },
+        {
+          "headline": "Personal planner",
+          "subtitle": "Your AI-powered life strategist that helps you plan, prioritize, and achieve your personal goals. From daily to-dos to long-term aspirations, V V Life creates smart schedules, suggests optimal timing, and keeps you on track with gentle, context-aware reminders."
+        },
+        {
+          "headline": "Life calendar",
+          "subtitle": "Unify your entire life in one intelligent calendar — work meetings, family events, health appointments, social plans, and learning sessions all synchronized. Smart conflict detection, automatic travel time calculations, and AI-generated suggestions ensure you never miss what matters."
+        }
+      ],
       "features": [
         {
           "icon": "✨",
@@ -1561,7 +1594,12 @@
           "title": "Invisible Companion",
           "description": "Runs quietly in the background, surfaces smart suggestions exactly when you need them, never when you don't."
         }
-      ]
+      ],
+      "notice": {
+        "badge": "COMING SOON",
+        "title": "V V Life is launching soon",
+        "description": "We're putting the finishing touches on this suite. Join the waitlist to be notified when it's ready."
+      }
     },
     "health": {
       "label": "V V Health",
@@ -1570,6 +1608,24 @@
       "tagline": "Smart · Reliable · Caring · Collaborative",
       "keywords": ["Smart", "Reliable", "Caring", "Collaborative"],
       "ctaLabel": "Explore V V Health",
+      "screenshots": [
+        {
+          "headline": "Health overview",
+          "subtitle": "Your comprehensive health command center that brings together all vital metrics, medical records, upcoming appointments, and wellness insights in one unified dashboard. V V Health uses AI to identify patterns, track progress toward health goals, and deliver personalized recommendations based on your complete health profile."
+        },
+        {
+          "headline": "Appointments",
+          "subtitle": "Streamline your healthcare journey with intelligent appointment booking that connects you to the right specialists at the right time. The system understands your medical history, suggests optimal departments, manages scheduling conflicts, and provides timely reminders — ensuring you never miss important check-ups or treatments."
+        },
+        {
+          "headline": "Health records",
+          "subtitle": "Securely centralize your entire medical history — lab results, prescriptions, imaging reports, vaccination records, and doctor's notes — in one encrypted, accessible location. Share records instantly with authorized healthcare providers, track treatment progress, and maintain a complete, portable health archive that travels with you."
+        },
+        {
+          "headline": "Risk detection",
+          "subtitle": "Leverage AI-powered health analytics that continuously monitor your vitals, behaviors, and medical history to detect early warning signs and health risks before they become serious. Receive personalized prevention strategies, evidence-based health recommendations, and proactive alerts that empower you to take control of your well-being."
+        }
+      ],
       "features": [
         {
           "icon": "❤️",
@@ -1601,7 +1657,12 @@
           "title": "Health Resources",
           "description": "Curated, reliable health education content that empowers you to make informed wellness decisions."
         }
-      ]
+      ],
+      "notice": {
+        "badge": "COMING SOON",
+        "title": "V V Health is launching soon",
+        "description": "We're putting the finishing touches on this suite. Join the waitlist to be notified when it's ready."
+      }
     }
   },
   "modules": {
@@ -1785,8 +1846,12 @@
         "description": "Automated alerts for parents, students, teachers"
       },
       "ai-tutor": {
-        "name": "AI Tutor",
-        "description": "Personalised AI-powered learning assistance"
+        "name": "AI Teaching Assistant",
+        "description": "Personalised AI-powered teaching assistance"
+      },
+      "ai-study-companion": {
+        "name": "AI Study Companion",
+        "description": "Always-on study support for practice and revision"
       },
       "life-assistant": {
         "name": "AI Life Assistant",

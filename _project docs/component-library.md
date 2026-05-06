@@ -378,7 +378,7 @@ const PILLARS = [
     id: 'education',
     icon: '🎓',
     label: 'Education',
-    headline: 'New AI-powered Collaborative Education Services',
+    headline: 'One-Stop AI-Powered Education Collaboration Platform for All Scenarios',
     subline: 'Connecting You to the "V" World of Wisdom',
     keywords: ['Collaborative', 'Private', 'Efficient', 'Targeted'],
     color: '#22D3EE',
