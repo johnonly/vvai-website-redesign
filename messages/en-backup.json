@@ -1,0 +1,1831 @@
+{
+  "nav": {
+    "products": "Products",
+    "solutions": "Solutions",
+    "security": "Security",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "bookDemo": "Book a Demo",
+    "tryFree": "Try for Free",
+    "login": "Log In",
+    "ourStory": "Our Story",
+    "news": "News",
+    "contactVV": "Contact VV",
+    "joinUs": "Join Us",
+    "careers": "Careers",
+    "support": "Support",
+    "vvWork": "V V Work",
+    "vvEducation": "V V Education",
+    "vvLife": "V V Life",
+    "vvHealth": "V V Health",
+    "language": "Language",
+    "switchLanguage": "Switch language"
+  },
+  "hero": {
+    "headline": "V V AI Connects Enterprises and Individuals to Enable True Human–AI Collaboration and Co-creation",
+    "subheadline": "V V AI- Redefining Connections， Acting on Your Words. ",
+    "cta_primary": "Try for Free",
+    "cta_secondary": "Book a Demo"
+  },
+  "pillars": {
+    "title": "Powering Every Dimension of Your World",
+    "work": {
+      "label": "Work",
+      "headline": "One-Stop Smart Work Collaboration Platform",
+      "subline": "V V AI frees managers from routine tasks by automating planning, execution, and tracking, delivering precise insights for strategic focus and team inspiration. For employees, it acts as an intelligent assistant—handling research, analysis, and drafting—so they can focus on creativity, critical thinking, and human connection, shifting from routine work to high-value innovation.",
+      "keywords": "Smart · Convenient · Personalized · Collaborative"
+    },
+    "education": {
+      "label": "Education",
+      "headline": "New AI-powered Collaborative Education Services",
+      "subline": "V V AI bridges home and school, creating a student-centered education ecosystem. It provides teachers with accurate learning analytic for personalized instruction, while giving parents timely, transparent updates on progress and evidence-based parenting advice—uniting both sides to support each child’s unique growth.",
+      "keywords": "Collaborative · Private · Efficient · Targeted"
+    },
+    "life": {
+      "label": "Life",
+      "headline": "Your Personal and Reliable Smart Lifestyle Planner",
+      "subline": "V V AI learns user habits and preferences, then seamlessly coordinates dining, transport, housekeeping, and other services. With one command (or even none), it understands intent and delivers exactly what’s needed—turning “what you want” into instant reality.",
+      "keywords": "Digital · Convenient · Comprehensive · Connected"
+    },
+    "health": {
+      "label": "Health",
+      "headline": "Your Reliable, Quick-Response Health Manager",
+      "subline": "V V AI serves as an intelligent health coordinator, connecting personal data, medical knowledge, hospital experts, and rehab services. When needed, it matches the best resources—recommending departments, linking online doctors, or creating tailored plans—making high-quality care more accessible and efficient for everyone.",
+      "keywords": "Smart · Reliable · Caring · Collaborative"
+    }
+  },
+  "audience": {
+    "title": "One Platform. Every Role.",
+    "enterprise": {
+      "label": "Enterprise",
+      "headline": "AI Intelligent Enterprise Management Platform",
+      "sub": "Innovating how Enterprises are Managed — Improving Operational Efficiency and Business Outcome",
+      "body": "Use V V to improve work efficiency between teams with an innovative and comprehensive collaboration and enterprise management platform.",
+      "features": [
+        {
+          "label": "Work Management",
+          "sub": "Innovative Thinking"
+        },
+        {
+          "label": "Smart Education",
+          "sub": "Home-School Collaboration"
+        },
+        {
+          "label": "Life Services",
+          "sub": "One-Click Access"
+        },
+        {
+          "label": "Health Management",
+          "sub": "Resource Sharing"
+        }
+      ]
+    },
+    "individual": {
+      "label": "Individual",
+      "headline": "AI-Powered Personal Assistant",
+      "sub": "From task executor to decision enabler — From human-serving tools to people-centric services",
+      "body": "V V career assistant accumulates and assesses your skills and achievements, offering a holistic perspective of your professional journey.",
+      "features": [
+        {
+          "label": "Intelligent Assistance",
+          "sub": "Efficient and Effortless"
+        },
+        {
+          "label": "Personalized Learning",
+          "sub": "Learning at My Fingertips"
+        },
+        {
+          "label": "Proactive Service",
+          "sub": "Invisible Companion"
+        },
+        {
+          "label": "Risk Detection",
+          "sub": "Prevention is Key"
+        }
+      ]
+    }
+  },
+  "techPillars": {
+    "label": "Core Technology",
+    "title": "Leading Product Aggregation Form",
+    "items": [
+      {
+        "number": "01",
+        "title": "Next-Generation AI Capabilities",
+        "body": "A next-generation AI intelligence foundation, equipped with globally innovative multi-modal conversational interaction technologies and proprietary AI capabilities. Empowers enterprises with super-intelligent AI work agents, and individuals with AI super assistants."
+      },
+      {
+        "number": "02",
+        "title": "Industry-Leading Internal-External Collaboration",
+        "body": "A powerful platform architecture that seamlessly connects internal work collaboration with external business collaboration. Through unified workflows and efficient coordination, it enhances organizational execution."
+      },
+      {
+        "number": "03",
+        "title": "Intelligent IM Communication Capabilities",
+        "body": "End-to-end encrypted to ensure privacy and data security. Covers core business communication scenarios, enabling IM-based task execution, approvals, and information sharing with multi-language real-time translation."
+      },
+      {
+        "number": "04",
+        "title": "Global Data Security & Compliance",
+        "body": "A globally compliant data platform aligned with international standards, including GDPR. Certified under ISO 27001 and supported by a proprietary security protection framework."
+      }
+    ]
+  },
+  "platform": {
+    "label": "Platform",
+    "title": "V V AI Reimagines Enterprises and Individuals",
+    "subtitle": "Transforming Collaboration from Execution to Creation",
+    "bullets": [
+      "A Fully Integrated AI-Powered Platform, connecting people, business, finance, and operations through intelligent collaboration",
+      "A Unified Workspace, enabling internal coordination and external operational execution with seamless integration"
+    ]
+  },
+  "security": {
+    "label": "Security",
+    "title": "Built on Trust, Designed for Scale",
+    "cards": [
+      {
+        "title": "Data Security & Technology Assurance",
+        "items": [
+          "End-to-end data encryption enabling secure bidirectional data transmission",
+          "Protection against accidental deletion or loss with multiple backup methods",
+          "ISO 27001 certified, fully compliant with GDPR requirements",
+          "Protection against malicious attacks, anomalous requests, and high-risk operation alerts",
+          "Unauthorized access prevented with permission controls"
+        ]
+      },
+      {
+        "title": "Customer Success Service Assurance",
+        "items": [
+          "Go-live within 7 days, enabling a seamless transition to digital management",
+          "7×24 daily customer support to ensure stable and continuous digital operations",
+          "Full lifecycle operational system support, enabling intelligent operational decision-making",
+          "Ongoing and growth-enablement services to support personalized long-term decision strategies"
+        ]
+      }
+    ]
+  },
+  "partners": {
+    "label": "Partners",
+    "title": "Co-Creating with 100+ Education Partners"
+  },
+  "testimonials": {
+    "label": "Customers",
+    "title": "What Our Customers Say",
+    "subtitle": "Every customer's story and experience fuel our journey forward",
+    "items": {
+      "t1": {
+        "authorTitle": "Operations Director",
+        "quote": "V V AI integrates over 30 core enterprise management functions into a single platform with real-time data synchronization, making people, finance, and resource management unprecedentedly simple. It has saved me at least 30% of my time."
+      },
+      "t2": {
+        "authorTitle": "Education Center Founder",
+        "quote": "V V AI's educational space designed for institutions and families not only helped me increase course sales, but more importantly, it significantly improved the service experience for parents and students, leading to more referral enrollments. Teachers also find it very convenient—they can check class schedules, timetables, and students' attendance status anytime on the APP."
+      },
+      "t3": {
+        "authorTitle": "Corporate Employee",
+        "quote": "V V AI's office assistant is incredibly useful. It helps me organize daily to-do lists, meeting schedules, approval workflows, and more. I can chat with it anytime to discuss work ideas, and it often gives me very practical suggestions. It also quickly summarizes documents and writes reports for me—my work efficiency has improved a lot!"
+      },
+      "t4": {
+        "authorTitle": "Marketing & Sales Representative",
+        "quote": "Because of work, I often have client entertainment needs. Through V V AI's life assistant, I can get creative ideas for hosting clients, it recommends nearby restaurants, and it even suggests the best travel times and transportation arrangements."
+      },
+      "t5": {
+        "authorTitle": "Parent",
+        "quote": "I downloaded V V AI on the recommendation of the training center. At first, I only used it to check my child's class schedule, but after using it, I found it can centrally manage the learning plans, bills, notifications, learning evaluations, classroom highlights, after-class homework, and periodic learning reports for all 3 of my children across different institutions. It's truly a treasure app for parents!"
+      }
+    }
+  },
+  "cta": {
+    "headline": "V V AI — Redefining Connections, Acting on Your Words",
+    "subheadline": "Join thousands of enterprises and individuals already transforming how they work, learn, live, and stay healthy.",
+    "bookDemo": "Book a Demo",
+    "tryFree": "Try for Free",
+    "trust1": "ISO 27001 Certified",
+    "trust2": "GDPR Compliant",
+    "trust3": "99.9% Uptime",
+    "trust4": "7×24 Support",
+    "trust5": "Free 14-day Trial"
+  },
+  "download": {
+    "meta": {
+      "title": "Download V V AI",
+      "description": "Download V V AI for desktop and mobile, or open the official download center for all available installers."
+    },
+    "hero": {
+      "label": "Download Center",
+      "titleStart": "Get",
+      "titleGradient": "V V AI",
+      "subtitle": "Install V V AI across desktop and mobile in minutes.",
+      "body": "Choose your platform below to continue to the official V V AI download center, or book a guided setup demo with our team.",
+      "primaryCta": "Open Official Download Center",
+      "secondaryCta": "Book a Demo"
+    },
+    "platformsLabel": "Platforms",
+    "platformsTitle": "Choose Your Device",
+    "platforms": {
+      "windows": {
+        "name": "Windows",
+        "subtitle": "Best for enterprise teams managing operations, approvals, and dashboards from desktop.",
+        "badge": "Desktop",
+        "cta": "Download for Windows"
+      },
+      "macos": {
+        "name": "macOS",
+        "subtitle": "Ideal for creative and cross-functional teams that need AI collaboration on macOS.",
+        "badge": "Desktop",
+        "cta": "Download for macOS"
+      },
+      "ios": {
+        "name": "iOS / iPadOS",
+        "subtitle": "Stay connected on the go with mobile approvals, messaging, and instant AI assistance.",
+        "badge": "Mobile",
+        "cta": "Download for iOS"
+      },
+      "android": {
+        "name": "Android",
+        "subtitle": "Access your tasks, meetings, and assistants from any Android phone or tablet.",
+        "badge": "Mobile",
+        "cta": "Download for Android"
+      }
+    },
+    "stepsLabel": "Quick Start",
+    "stepsTitle": "Get Started in 3 Steps",
+    "steps": {
+      "one": "Open the official download center and pick your platform.",
+      "two": "Install V V AI and sign in with your work or personal account.",
+      "three": "Enable notifications and sync to start collaborating instantly."
+    },
+    "notesTitle": "Before You Install",
+    "notes": {
+      "one": "Use the latest OS version for best performance and security.",
+      "two": "If your organization uses SSO, prepare your company login details.",
+      "three": "Need onboarding help? Book a demo and our team will guide setup."
+    }
+  },
+  "footer": {
+    "tagline": "Redefining Connections, Acting on Your Words",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "products": "Products",
+    "company": "Company",
+    "contact": "Contact",
+    "security": "Security",
+    "copyright": "©{year} V V TECHNOLOGY PTE. LTD., All rights reserved."
+  },
+  "about": {
+    "meta": {
+      "title": "About V V AI — Our Story",
+      "description": "V V Technology Pte. Ltd. — Providing Intelligent AI-Driven Services Across Work, Education, Life, and Health from Singapore."
+    },
+    "hero": {
+      "label": "Our Story",
+      "headlineGradient": "Redefining Connections,",
+      "headlinePlain": "Acting on Your Words",
+      "body": "V V Technology Pte. Ltd. is a Singapore-based AI company building intelligent services across Work, Education, Life, and Health — creating an AI era where services seamlessly transition from being sought to being enjoyed.",
+      "bookDemo": "Book a Demo",
+      "contact": "Contact Us"
+    },
+    "stats": [
+      {
+        "value": "30+",
+        "label": "Integrated Modules"
+      },
+      {
+        "value": "100+",
+        "label": "Education Partners"
+      },
+      {
+        "value": "3",
+        "label": "i18n Locales"
+      },
+      {
+        "value": "99.9%",
+        "label": "Platform Uptime"
+      }
+    ],
+    "mission": {
+      "label": "Our Mission",
+      "titleStart": "AI Services That Come",
+      "titleGradient": "To You",
+      "body1": "We believe AI should be proactive, not reactive. Our mission is to leverage AI concepts and technologies to deliver precise, intelligent services — creating a world where getting help is effortless.",
+      "body2": "Headquartered in Singapore, we build for the global enterprise market with a focus on APAC — bringing together Work, Education, Life, and Health into one seamlessly connected platform.",
+      "quote": "Providing Intelligent AI-Driven Services Across Work, Education, Life, and Health — Leveraging AI concepts and technologies to deliver precise, intelligent services, creating an AI era where services seamlessly transition from <b>being sought</b> to <b>being enjoyed</b>.",
+      "quoteAttr": "— V V AI Mission Statement"
+    },
+    "timeline": {
+      "label": "Our Journey",
+      "titleStart": "Building the Future,",
+      "titleGradient": "Milestone by Milestone",
+      "items": [
+        {
+          "year": "2018",
+          "label": "Founded",
+          "detail": "V V Technology Pte. Ltd. established in Singapore"
+        },
+        {
+          "year": "2020",
+          "label": "First Release",
+          "detail": "V V Work Suite launched with 10 core modules"
+        },
+        {
+          "year": "2021",
+          "label": "Education Suite",
+          "detail": "Launched AI-powered home-school collaboration platform"
+        },
+        {
+          "year": "2022",
+          "label": "ISO 27001",
+          "detail": "Achieved certification — enterprise trust milestone"
+        },
+        {
+          "year": "2023",
+          "label": "Life & Health",
+          "detail": "Expanded to personal AI: Life Suite and Health Suite"
+        },
+        {
+          "year": "2024",
+          "label": "100+ Partners",
+          "detail": "Education partner ecosystem reaches 100+ institutions"
+        },
+        {
+          "year": "2025",
+          "label": "AI Engine 2.0",
+          "detail": "Next-generation multi-modal AI assistant rolled out"
+        },
+        {
+          "year": "2026",
+          "label": "Global Expansion",
+          "detail": "Scaling across APAC — more regions coming soon"
+        }
+      ]
+    },
+    "values": {
+      "label": "Our Values",
+      "titleStart": "What Drives",
+      "titleGradient": "Everything We Build",
+      "items": [
+        {
+          "icon": "🚀",
+          "title": "Innovation",
+          "description": "We push the boundaries of what AI can do — building tools that think ahead, adapt to context, and deliver value before you ask."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Trust",
+          "description": "ISO 27001 certified, GDPR compliant, end-to-end encrypted. We treat your data with the same care you would."
+        },
+        {
+          "icon": "🤝",
+          "title": "People",
+          "description": "Technology should serve people, not the other way around. Every feature we build starts with a real human need."
+        },
+        {
+          "icon": "🌏",
+          "title": "Impact",
+          "description": "From Singapore to the world — we measure success by the time we save and the connections we enable for millions of users."
+        }
+      ]
+    },
+    "cta": {
+      "titleStart": "Ready to",
+      "titleGradient": "Join the Journey?",
+      "body": "Whether you're an enterprise looking to transform operations or a curious individual — V V AI has a place for you.",
+      "bookDemo": "Book a Demo",
+      "joinTeam": "Join Our Team"
+    }
+  },
+  "pricing": {
+    "meta": {
+      "title": "Pricing — V V AI",
+      "description": "V V AI uses a flexible enterprise pricing model. Contact our team for a custom quote tailored to your organisation's size and needs."
+    },
+    "hero": {
+      "label": "Pricing",
+      "titleStart": "Flexible Pricing for",
+      "titleGradient": "Every Scale",
+      "body": "V V AI is built for organisations of all sizes. Our pricing is customised to your needs — contact us for a tailored quote and we'll get back to you within one business day.",
+      "ctaQuote": "Get a Custom Quote",
+      "ctaDemo": "Book a Demo First"
+    },
+    "tiers": {
+      "label": "What's Included",
+      "title": "Core features by suite",
+      "subtitle": "Every suite is fully featured — no artificial feature gating.",
+      "contactPricing": "Contact for pricing →",
+      "items": [
+        {
+          "name": "V V Work",
+          "tagline": "For enterprise teams",
+          "features": [
+            "Full HR management suite",
+            "OKR, projects & task tracking",
+            "Encrypted IM & video meetings",
+            "Smart workflow automation",
+            "Live analytics dashboards",
+            "Role-based access controls",
+            "Dedicated onboarding support"
+          ]
+        },
+        {
+          "name": "V V Education",
+          "tagline": "For institutions & schools",
+          "features": [
+            "Home-school collaboration tools",
+            "AI tutor & personalised learning",
+            "Class scheduling & attendance",
+            "Learning progress reports",
+            "Course sales & enrollment platform",
+            "Smart parent notifications",
+            "Multi-institution management"
+          ]
+        },
+        {
+          "name": "V V Life",
+          "tagline": "For individuals & families",
+          "features": [
+            "AI personal life assistant",
+            "Dining & travel recommendations",
+            "Unified life calendar",
+            "Connected lifestyle services",
+            "Career skill tracking",
+            "End-to-end encrypted personal data",
+            "Cross-device sync (5 platforms)"
+          ]
+        },
+        {
+          "name": "V V Health",
+          "tagline": "For healthcare providers",
+          "features": [
+            "Centralised health records",
+            "Medication & reminder tracking",
+            "Provider-patient-family collaboration",
+            "Risk detection & alerts",
+            "Multi-facility resource sharing",
+            "HIPAA-aligned data protection",
+            "Authorised access controls"
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "label": "Enterprise Sales",
+      "title": "Let's build the right plan for you",
+      "body": "Our enterprise sales team will understand your use case, recommend the right suites and configurations, and provide transparent pricing — no surprises.",
+      "checks": [
+        "Response within 1 business day",
+        "Custom implementation support",
+        "Go live in as little as 7 days",
+        "Dedicated customer success manager"
+      ],
+      "ctaSales": "Contact Our Sales Team",
+      "ctaDemo": "Book a Product Demo"
+    },
+    "faq": {
+      "label": "FAQ",
+      "title": "Common questions",
+      "items": [
+        {
+          "q": "Does V V AI publish fixed pricing?",
+          "a": "No. V V AI is an enterprise platform and pricing is tailored to your organisation's size, selected suites, and integration requirements. Contact us for a custom quote."
+        },
+        {
+          "q": "Can I use multiple suites together?",
+          "a": "Yes — V V AI suites are designed to work together seamlessly. Many organisations use Work + Education or Work + Life as part of an integrated platform deployment."
+        },
+        {
+          "q": "Is there a free trial?",
+          "a": "We offer guided product demos and proof-of-concept pilots for qualified organisations. Book a demo and our team will arrange the right evaluation experience for you."
+        },
+        {
+          "q": "How quickly can we get started?",
+          "a": "With our dedicated implementation team, most organisations go live within 7 days of signing. We handle technical setup, data migration, and staff training."
+        },
+        {
+          "q": "What support is included?",
+          "a": "All plans include 7×24 customer support, a dedicated success manager, and full lifecycle operational system support."
+        }
+      ]
+    }
+  },
+  "solutions": {
+    "meta": {
+      "title": "Solutions — V V AI",
+      "description": "V V AI solutions for enterprises, education institutions, individuals, and healthcare organisations across APAC."
+    },
+    "hero": {
+      "label": "Solutions",
+      "titleStart": "Built for Every",
+      "titleGradient": "Context",
+      "body": "V V AI connects enterprises and individuals — enabling true human–AI collaboration across work, education, lifestyle, and health."
+    },
+    "items": [
+      {
+        "audience": "For Enterprises",
+        "headline": "AI Intelligent Enterprise Management Platform",
+        "description": "Use V V AI to improve work efficiency between teams with an innovative and comprehensive collaboration and enterprise management platform. Consolidate people, finance, operations, and communication in a single, AI-driven workspace.",
+        "features": [
+          {
+            "text": "OKR goal setting and transparent project tracking"
+          },
+          {
+            "text": "HR management: attendance, payroll, onboarding, performance"
+          },
+          {
+            "text": "Smart workflow automation — cut manual processes by up to 60%"
+          },
+          {
+            "text": "Encrypted real-time IM and video conferencing"
+          },
+          {
+            "text": "Live analytics dashboards with AI-generated summaries"
+          },
+          {
+            "text": "Flexible role-based access control and policy management"
+          }
+        ],
+        "suiteLabel": "V V Work",
+        "exploreLabel": "Explore V V Work →"
+      },
+      {
+        "audience": "For Education",
+        "headline": "Home-School Collaboration & Smart Education",
+        "description": "Bridge the gap between institutions and families with real-time updates, AI-assisted learning, and centralized management tools. Enable course sales, scheduling, and student progress tracking — all in one platform.",
+        "features": [
+          {
+            "text": "Real-time home-school collaboration for parents, students, teachers"
+          },
+          {
+            "text": "AI tutor that adapts to each student's pace and learning style"
+          },
+          {
+            "text": "Class scheduling, attendance, homework, and grade automation"
+          },
+          {
+            "text": "Periodic AI-generated learning progress reports"
+          },
+          {
+            "text": "Built-in course enrollment, payment, and referral platform"
+          },
+          {
+            "text": "Smart notifications that keep all parties informed"
+          }
+        ],
+        "suiteLabel": "V V Education",
+        "exploreLabel": "Explore V V Education →"
+      },
+      {
+        "audience": "For Individuals",
+        "headline": "Your Personal & Reliable Smart Lifestyle Planner",
+        "description": "A proactive digital companion that anticipates your needs and acts on your words before you ask. From dining and travel to career development and life scheduling — V V AI keeps your personal world organized and connected.",
+        "features": [
+          {
+            "text": "AI life assistant powered by natural language — just say it"
+          },
+          {
+            "text": "Smart restaurant discovery, reservations, and travel planning"
+          },
+          {
+            "text": "Unified life calendar: work, social, health, and learning events"
+          },
+          {
+            "text": "One-click access to a curated ecosystem of lifestyle services"
+          },
+          {
+            "text": "Career assistant: skill tracking, achievements, and opportunities"
+          },
+          {
+            "text": "End-to-end encrypted — your data stays private"
+          }
+        ],
+        "suiteLabel": "V V Life",
+        "exploreLabel": "Explore V V Life →"
+      },
+      {
+        "audience": "For Healthcare",
+        "headline": "Your Reliable, Quick-Response Health Manager",
+        "description": "Connect healthcare providers, patients, and families through an intelligent health management platform. Share resources, track health records, and get AI-powered guidance — all with the security and reliability healthcare demands.",
+        "features": [
+          {
+            "text": "Medication tracking and intelligent health reminders"
+          },
+          {
+            "text": "Centralised health records accessible by authorised providers"
+          },
+          {
+            "text": "Provider-patient-family collaboration and communication"
+          },
+          {
+            "text": "Risk detection and proactive prevention alerts"
+          },
+          {
+            "text": "Resource sharing across multi-facility healthcare networks"
+          },
+          {
+            "text": "HIPAA-aligned security with end-to-end data protection"
+          }
+        ],
+        "suiteLabel": "V V Health",
+        "exploreLabel": "Explore V V Health →"
+      }
+    ],
+    "cta": {
+      "title": "Find the right solution for your organisation",
+      "body": "Our team will help you understand which suites and features best fit your specific needs and scale.",
+      "ctaContact": "Contact Sales",
+      "ctaDemo": "Book a Demo"
+    }
+  },
+  "securityPage": {
+    "meta": {
+      "title": "Security & Compliance — V V AI",
+      "description": "V V AI is ISO 27001 certified and GDPR compliant. End-to-end encryption, 24/7 uptime, and enterprise-grade data protection."
+    },
+    "hero": {
+      "label": "Security",
+      "titleStart": "Your Data,",
+      "titleGradient": "Protected",
+      "body": "V V AI is built on a foundation of enterprise-grade security. From ISO 27001 certification to end-to-end encryption, your data is safe with us.",
+      "badges": [
+        {
+          "label": "ISO 27001",
+          "sublabel": "Certified"
+        },
+        {
+          "label": "GDPR",
+          "sublabel": "Compliant"
+        },
+        {
+          "label": "99.9%",
+          "sublabel": "Uptime SLA"
+        },
+        {
+          "label": "7×24",
+          "sublabel": "Support"
+        },
+        {
+          "label": "E2E",
+          "sublabel": "Encryption"
+        }
+      ]
+    },
+    "dataSecurity": {
+      "label": "Data Security & Technology Assurance",
+      "title": "Protection at every layer",
+      "body": "Multiple overlapping security measures ensure your organisation's data is always protected — from transmission to storage.",
+      "items": [
+        {
+          "title": "End-to-End Encryption",
+          "description": "End-to-end data encryption enabling secure bidirectional data transmission. All messages, documents, and records are encrypted at rest and in transit."
+        },
+        {
+          "title": "Disaster Recovery & Backups",
+          "description": "Protection against accidental deletion or loss with multiple backup methods and geographically distributed redundancy."
+        },
+        {
+          "title": "ISO 27001 Certified & GDPR Compliant",
+          "description": "V V AI holds ISO 27001 certification and is fully compliant with GDPR requirements — meeting the highest international standards for information security management."
+        },
+        {
+          "title": "Threat & Anomaly Protection",
+          "description": "Protection against malicious attacks, anomalous requests, and high-risk operation alerts. Real-time monitoring flags suspicious activity before it becomes a threat."
+        },
+        {
+          "title": "Granular Access Controls",
+          "description": "Unauthorized access prevented with role-based permission controls. Administrators define exactly who can see, edit, or share every piece of data."
+        }
+      ]
+    },
+    "customerSuccess": {
+      "label": "Customer Success Service Assurance",
+      "title": "We're with you every step",
+      "body": "Security doesn't end at technology. Our customer success team ensures your deployment runs smoothly — and grows with you.",
+      "items": [
+        {
+          "title": "Go-Live in 7 Days",
+          "description": "Rapid onboarding with dedicated implementation support — go live within 7 days and enable a seamless transition to digital management."
+        },
+        {
+          "title": "7×24 Customer Support",
+          "description": "7×24 daily customer support to ensure stable and continuous digital operations. Your team is never on their own."
+        },
+        {
+          "title": "Full Lifecycle Support",
+          "description": "Full lifecycle operational system support, enabling intelligent operational decision-making from deployment through ongoing optimization."
+        },
+        {
+          "title": "Long-Term Growth Enablement",
+          "description": "Ongoing growth-enablement services to support personalized long-term decision strategies as your organisation scales."
+        }
+      ]
+    },
+    "compliance": {
+      "title": "ISO 27001 Certified · GDPR Compliant",
+      "body": "V V Technology Pte. Ltd. holds ISO/IEC 27001 certification and maintains full compliance with the EU General Data Protection Regulation. Our information security management system is independently audited and continuously improved.",
+      "ctaSecurity": "Talk to Our Security Team",
+      "ctaDemo": "See a Demo"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact V V AI",
+      "description": "Get in touch with the V V AI team. Book a demo, ask us a question, or find out how we can help your organisation."
+    },
+    "hero": {
+      "label": "Contact",
+      "titleStart": "Let's",
+      "titleGradient": "Start a Conversation",
+      "body": "Whether you want to book a demo, ask about pricing, or explore how V V AI can help your organisation — we're here."
+    },
+    "form": {
+      "title": "Send a Message",
+      "subtitle": "Fill in your details and we'll get back to you within 1 business day.",
+      "submitLabel": "Send Message"
+    },
+    "info": {
+      "title": "Contact Details",
+      "items": [
+        {
+          "label": "Headquarters",
+          "value": "Singapore"
+        },
+        {
+          "label": "Email",
+          "value": "contact@vvai.com"
+        },
+        {
+          "label": "Support Hours",
+          "value": "7 × 24 — always on"
+        }
+      ]
+    },
+    "why": {
+      "title": "Why V V AI?",
+      "stats": [
+        {
+          "value": "30+",
+          "label": "Integrated modules"
+        },
+        {
+          "value": "100+",
+          "label": "Education partners"
+        },
+        {
+          "value": "99.9%",
+          "label": "Platform uptime"
+        },
+        {
+          "value": "7×24",
+          "label": "Customer support"
+        }
+      ]
+    },
+    "securityBadge": {
+      "title": "Security & Compliance",
+      "certs": ["ISO 27001", "GDPR", "SOC 2", "E2E Encrypted"]
+    }
+  },
+  "demo": {
+    "meta": {
+      "title": "Book a Demo — V V AI",
+      "description": "See V V AI in action. Book a personalised demo with our team and discover how 30+ integrated modules can transform your organisation."
+    },
+    "hero": {
+      "label": "Book a Demo",
+      "titleStart": "See V V AI",
+      "titleGradient": "in Action",
+      "body": "30 minutes. No pressure. Walk away with a clear picture of how V V AI can transform how your team works, learns, lives, and stays healthy."
+    },
+    "benefits": {
+      "titleStart": "What to",
+      "titleGradient": "Expect",
+      "items": [
+        {
+          "icon": "🎯",
+          "title": "Personalised Walkthrough",
+          "detail": "A live demo tailored to your industry and use case — Work, Education, Life, or Health."
+        },
+        {
+          "icon": "⚡",
+          "title": "No Commitment",
+          "detail": "30-minute session. No sales pressure. Cancel or reschedule anytime."
+        },
+        {
+          "icon": "🔐",
+          "title": "Enterprise-Grade Security",
+          "detail": "See our ISO 27001 compliance, GDPR controls, and end-to-end encryption in action."
+        },
+        {
+          "icon": "🤝",
+          "title": "Migration Support",
+          "detail": "Go live in 7 days. Our team handles onboarding from day one."
+        }
+      ]
+    },
+    "form": {
+      "title": "Request Your Demo",
+      "subtitle": "Our team will reach out within 1 business day to schedule your session.",
+      "submitLabel": "Book a Demo"
+    }
+  },
+  "join": {
+    "meta": {
+      "title": "Join V V AI — Careers",
+      "description": "Help us redefine connections. V V Technology Pte. Ltd. is hiring across engineering, product, design, and more."
+    },
+    "hero": {
+      "label": "We're Hiring",
+      "titleStart": "Help Us",
+      "titleGradient": "Redefine Connections",
+      "body": "Join a Singapore-based team building AI that genuinely changes how people work, learn, live, and stay healthy. We're looking for curious, talented people who love building at scale.",
+      "cta": "See Open Roles"
+    },
+    "perks": [
+      {
+        "emoji": "💡",
+        "title": "Ship Fast, Learn Faster"
+      },
+      {
+        "emoji": "🌍",
+        "title": "Remote-Friendly Culture"
+      },
+      {
+        "emoji": "📈",
+        "title": "Equity + Competitive Pay"
+      },
+      {
+        "emoji": "🏥",
+        "title": "Health & Wellness Benefits"
+      },
+      {
+        "emoji": "📚",
+        "title": "L&D Budget — $2K/year"
+      },
+      {
+        "emoji": "🎉",
+        "title": "Team Retreats"
+      }
+    ],
+    "roles": {
+      "label": "Open Roles",
+      "titleCount": "{count} Positions",
+      "titleGradient": "Available Now",
+      "applyNow": "Apply Now",
+      "noRole": "Don't see a role that fits?",
+      "sendCV": "Send us your CV anyway"
+    },
+    "depts": {
+      "engineering": "Engineering",
+      "product": "Product",
+      "design": "Design",
+      "sales": "Sales",
+      "marketing": "Marketing",
+      "operations": "Operations"
+    },
+    "jobs": [
+      {
+        "id": "swe-001",
+        "title": "Senior Full-Stack Engineer",
+        "department": "engineering",
+        "location": "Singapore · Remote",
+        "type": "Full-time",
+        "level": "Senior",
+        "description": "Build and scale the V V AI platform using Next.js, TypeScript, and cloud-native infrastructure. Own features end-to-end."
+      },
+      {
+        "id": "swe-002",
+        "title": "Frontend Engineer (React)",
+        "department": "engineering",
+        "location": "Singapore · Hybrid",
+        "type": "Full-time",
+        "level": "Mid",
+        "description": "Craft high-performance, accessible UI experiences for millions of users across Web, mobile, and desktop."
+      },
+      {
+        "id": "pm-001",
+        "title": "Senior Product Manager",
+        "department": "product",
+        "location": "Singapore",
+        "type": "Full-time",
+        "level": "Senior",
+        "description": "Drive the roadmap for one of our four product suites — from discovery through launch and growth."
+      },
+      {
+        "id": "des-001",
+        "title": "UI/UX Designer",
+        "department": "design",
+        "location": "Singapore · Remote",
+        "type": "Full-time",
+        "level": "Mid",
+        "description": "Design intuitive, beautiful interfaces that make complex enterprise workflows feel effortless."
+      },
+      {
+        "id": "ae-001",
+        "title": "Enterprise Account Executive",
+        "department": "sales",
+        "location": "Singapore",
+        "type": "Full-time",
+        "level": "Mid",
+        "description": "Own the full sales cycle for enterprise accounts across APAC. Strong consultative selling skills required."
+      },
+      {
+        "id": "mkt-001",
+        "title": "Digital Marketing Manager",
+        "department": "marketing",
+        "location": "Singapore · Hybrid",
+        "type": "Full-time",
+        "level": "Mid",
+        "description": "Lead demand generation, SEO/SEM, and content strategy to grow V V AI's presence in APAC markets."
+      }
+    ]
+  },
+  "support": {
+    "meta": {
+      "title": "Support — V V AI",
+      "description": "V V AI customer support: 7×24 availability, onboarding help, documentation, and direct contact with our team."
+    },
+    "hero": {
+      "label": "Support",
+      "titleStart": "We're Here",
+      "titleGradient": "7 × 24",
+      "body": "V V AI support is always on. Whether you need technical help, onboarding guidance, or enterprise escalation — our team has you covered.",
+      "sla": [
+        {
+          "metric": "7×24",
+          "label": "Support availability"
+        },
+        {
+          "metric": "99.9%",
+          "label": "Platform uptime SLA"
+        },
+        {
+          "metric": "< 1 hr",
+          "label": "Critical issue response"
+        },
+        {
+          "metric": "7 days",
+          "label": "Average go-live time"
+        }
+      ]
+    },
+    "channels": {
+      "label": "Contact Support",
+      "title": "How to reach us",
+      "items": [
+        {
+          "title": "Email Support",
+          "description": "Reach our team at any time. We respond to all support emails within one business day.",
+          "actionLabel": "contact@vvai.com",
+          "actionHref": "mailto:contact@vvai.com"
+        },
+        {
+          "title": "In-App Chat",
+          "description": "7×24 live support is available directly inside the V V AI app. Open a conversation with our support team at any time.",
+          "actionLabel": "Open V V AI App",
+          "actionHref": "/demo"
+        },
+        {
+          "title": "Onboarding Sessions",
+          "description": "New to V V AI? Book a guided onboarding session with a dedicated implementation specialist.",
+          "actionLabel": "Book a Session",
+          "actionHref": "/demo"
+        },
+        {
+          "title": "Enterprise Escalation",
+          "description": "Enterprise customers have a dedicated customer success manager available for escalations and strategic guidance.",
+          "actionLabel": "Contact Sales",
+          "actionHref": "/contact"
+        }
+      ]
+    },
+    "resources": {
+      "label": "Resources",
+      "title": "Help yourself to answers",
+      "subtitle": "Common topics and guides to get you moving.",
+      "learnMore": "Learn more →",
+      "items": [
+        {
+          "title": "Getting Started",
+          "description": "Set up your workspace, invite your team, and explore core features in your first 30 minutes."
+        },
+        {
+          "title": "Integrations",
+          "description": "Connect V V AI with your existing tools — HR systems, calendars, cloud storage, and more."
+        },
+        {
+          "title": "Security & Compliance",
+          "description": "Understand our data handling practices, encryption standards, and compliance certifications.",
+          "href": "/security"
+        },
+        {
+          "title": "Admin & Permissions",
+          "description": "Configure roles, access controls, and organisational policies for your entire deployment."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Can't find what you need?",
+      "body": "Our team is always happy to help. Reach out and we'll get back to you promptly.",
+      "ctaContact": "Contact Us",
+      "ctaDemo": "Book a Demo"
+    }
+  },
+  "terms": {
+    "meta": {
+      "title": "Terms of Service — V V AI",
+      "description": "V V AI Terms of Service. Read our terms governing your use of V V AI products and services."
+    },
+    "hero": {
+      "badge": "Legal",
+      "title": "Terms of Service",
+      "lastUpdated": "Last updated: March 29, 2026"
+    },
+    "toc": "Contents",
+    "sections": [
+      {
+        "id": "acceptance",
+        "heading": "1. Acceptance of Terms",
+        "body": "By accessing or using any V V AI product or service (collectively, the \"Service\") operated by V V Technology Pte. Ltd. (\"V V AI\", \"we\", \"us\", or \"our\"), you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree to these Terms, you may not use the Service.\n\nYou must be at least 18 years of age, or the legal age of majority in your jurisdiction, to use the Service. By using the Service, you represent and warrant that you meet this requirement."
+      },
+      {
+        "id": "description",
+        "heading": "2. Description of Service",
+        "body": "V V AI provides an AI-powered platform comprising multiple product suites — including V V Work, V V Education, V V Life, and V V Health — designed to assist individuals and organisations with productivity, collaboration, education, lifestyle management, and health management.\n\nWe reserve the right to modify, suspend, or discontinue any part of the Service at any time with reasonable notice."
+      },
+      {
+        "id": "account",
+        "heading": "3. Account Registration",
+        "body": "To access certain features, you must create an account. You agree to: (a) provide accurate, current, and complete information; (b) maintain the security of your credentials; (c) promptly notify us of any unauthorised access; and (d) accept responsibility for all activities under your account.\n\nVV AI reserves the right to suspend or terminate accounts that violate these Terms."
+      },
+      {
+        "id": "acceptable-use",
+        "heading": "4. Acceptable Use",
+        "body": "You agree not to use the Service to: (a) violate any applicable laws or regulations; (b) transmit malicious code, spam, or unauthorised advertising; (c) attempt to gain unauthorised access to our systems; (d) infringe upon third-party intellectual property rights; (e) harass, threaten, or harm other users; or (f) interfere with the integrity or performance of the Service.\n\nViolation of this section may result in immediate termination of your account."
+      },
+      {
+        "id": "data",
+        "heading": "5. Data & Privacy",
+        "body": "Your use of the Service is also governed by our Privacy Policy, which is incorporated into these Terms by reference. We are committed to protecting your data in accordance with GDPR and applicable Singapore data protection laws (PDPA). V V AI is ISO 27001 certified.\n\nYou retain ownership of all data you input into the Service. By using the Service, you grant V V AI a limited licence to process your data solely to provide and improve the Service."
+      },
+      {
+        "id": "ip",
+        "heading": "6. Intellectual Property",
+        "body": "All intellectual property in the Service — including software, designs, trademarks, and content — is owned by V V Technology Pte. Ltd. or its licensors. You are granted a non-exclusive, non-transferable, revocable licence to use the Service for its intended purpose.\n\nYou may not copy, modify, distribute, reverse-engineer, or create derivative works from any part of the Service without prior written consent."
+      },
+      {
+        "id": "payment",
+        "heading": "7. Fees & Payment",
+        "body": "Certain features of the Service require a paid subscription. All fees are stated in Singapore Dollars (SGD) or US Dollars (USD) as indicated. Subscriptions renew automatically unless cancelled at least 24 hours before the renewal date.\n\nWe reserve the right to change pricing with 30 days' notice. Continued use after a price change constitutes acceptance."
+      },
+      {
+        "id": "disclaimer",
+        "heading": "8. Disclaimer of Warranties",
+        "body": "THE SERVICE IS PROVIDED \"AS IS\" AND \"AS AVAILABLE\" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.\n\nWe do not warrant that the Service will be uninterrupted, error-free, or free of viruses or other harmful components."
+      },
+      {
+        "id": "liability",
+        "heading": "9. Limitation of Liability",
+        "body": "TO THE MAXIMUM EXTENT PERMITTED BY LAW, V V TECHNOLOGY PTE. LTD. SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING FROM YOUR USE OF THE SERVICE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\n\nOur total liability to you for any claim arising from these Terms shall not exceed the amount you paid to V V AI in the twelve (12) months preceding the claim."
+      },
+      {
+        "id": "termination",
+        "heading": "10. Termination",
+        "body": "Either party may terminate this agreement at any time. Upon termination, your right to use the Service ceases immediately. We may retain your data for up to 90 days post-termination to allow export, after which it will be permanently deleted in accordance with our data retention policy."
+      },
+      {
+        "id": "governing-law",
+        "heading": "11. Governing Law",
+        "body": "These Terms shall be governed by and construed in accordance with the laws of Singapore, without regard to conflict of law principles. Any dispute arising from these Terms shall be submitted to the exclusive jurisdiction of the courts of Singapore."
+      },
+      {
+        "id": "changes",
+        "heading": "12. Changes to Terms",
+        "body": "We may update these Terms from time to time. We will notify you of material changes via email or in-app notification at least 14 days before they take effect. Continued use of the Service after the effective date constitutes acceptance of the revised Terms."
+      },
+      {
+        "id": "contact",
+        "heading": "13. Contact",
+        "body": "For questions about these Terms, please contact us at:\n\nVV Technology Pte. Ltd.\nSingapore\nEmail: legal@vvai.com"
+      }
+    ]
+  },
+  "privacy": {
+    "meta": {
+      "title": "Privacy Policy — V V AI",
+      "description": "V V AI Privacy Policy. Understand how we collect, use, and protect your personal data."
+    },
+    "hero": {
+      "badge": "Legal",
+      "title": "Privacy Policy",
+      "lastUpdated": "Last updated: March 29, 2026"
+    },
+    "toc": "Contents",
+    "sections": [
+      {
+        "id": "overview",
+        "heading": "1. Overview",
+        "body": "V V Technology Pte. Ltd. (\"V V AI\", \"we\", \"us\", \"our\") is committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our products and services.\n\nWe comply with the Singapore Personal Data Protection Act (PDPA), the General Data Protection Regulation (GDPR) for users in the European Economic Area, and other applicable data protection laws. V V AI is ISO 27001 certified."
+      },
+      {
+        "id": "data-collected",
+        "heading": "2. Data We Collect",
+        "body": "We collect the following categories of personal data:\n\n• Account data: name, email address, company name, job title, phone number.\n• Usage data: features used, pages visited, actions taken, session duration, device and browser information, IP address.\n• Content data: files, messages, documents, and other content you create or upload within the Service.\n• Communication data: information from support tickets, demo requests, and correspondence with our team.\n• Payment data: billing name, address, and payment method details (processed by our payment provider — we do not store raw card numbers)."
+      },
+      {
+        "id": "how-we-use",
+        "heading": "3. How We Use Your Data",
+        "body": "We use your personal data to:\n\n• Provide, maintain, and improve the Service.\n• Process transactions and send related information.\n• Send product updates, security alerts, and support communications.\n• Personalise your experience and deliver relevant features.\n• Conduct analytics to understand usage patterns and improve performance.\n• Comply with legal obligations.\n• Detect and prevent fraud, abuse, and security incidents.\n\nWe do not sell your personal data to third parties."
+      },
+      {
+        "id": "legal-basis",
+        "heading": "4. Legal Basis for Processing (GDPR)",
+        "body": "For users in the EEA, we process your personal data under the following legal bases:\n\n• Contract: processing necessary to perform our contract with you (providing the Service).\n• Legitimate interests: analytics, security monitoring, and service improvement.\n• Legal obligation: compliance with applicable laws.\n• Consent: for marketing communications — you may withdraw consent at any time."
+      },
+      {
+        "id": "sharing",
+        "heading": "5. Data Sharing & Disclosure",
+        "body": "We may share your data with:\n\n• Service providers: cloud infrastructure, payment processors, analytics providers, and customer support tools — under strict data processing agreements.\n• Legal authorities: when required by law, court order, or to protect our rights and safety.\n• Business transfers: in connection with a merger, acquisition, or asset sale — with notice to affected users.\n\nAll third-party providers are required to maintain appropriate security standards."
+      },
+      {
+        "id": "retention",
+        "heading": "6. Data Retention",
+        "body": "We retain your personal data for as long as your account is active or as needed to provide the Service. Upon account deletion:\n\n• Your content data is deleted within 30 days.\n• Aggregated, anonymised analytics data may be retained indefinitely.\n• Data required for legal or compliance purposes is retained for the applicable statutory period."
+      },
+      {
+        "id": "security",
+        "heading": "7. Security",
+        "body": "We implement end-to-end encryption for data in transit and at rest, access controls, regular security audits, and intrusion detection systems. V V AI holds ISO 27001 certification — reflecting our commitment to information security management.\n\nDespite these measures, no system is completely secure. We encourage you to use strong, unique passwords and to notify us immediately of any suspected breach."
+      },
+      {
+        "id": "rights",
+        "heading": "8. Your Rights",
+        "body": "Depending on your location, you may have the following rights regarding your personal data:\n\n• Access: request a copy of the data we hold about you.\n• Rectification: correct inaccurate or incomplete data.\n• Erasure: request deletion of your data (\"right to be forgotten\").\n• Restriction: ask us to limit processing of your data.\n• Portability: receive your data in a structured, machine-readable format.\n• Objection: object to processing based on legitimate interests.\n• Withdrawal of consent: for consent-based processing.\n\nTo exercise any of these rights, contact us at privacy@vvai.com. We will respond within 30 days."
+      },
+      {
+        "id": "cookies",
+        "heading": "9. Cookies & Tracking",
+        "body": "We use cookies and similar tracking technologies to operate and improve the Service. Categories include:\n\n• Essential cookies: required for the Service to function.\n• Analytics cookies: help us understand how users interact with the Service (Google Analytics 4).\n• Preference cookies: remember your settings and preferences.\n\nYou may manage cookie preferences through your browser settings. Disabling essential cookies may impair functionality."
+      },
+      {
+        "id": "international",
+        "heading": "10. International Transfers",
+        "body": "V V AI is headquartered in Singapore. Your data may be processed in Singapore and other countries where our service providers operate. For transfers from the EEA, we rely on Standard Contractual Clauses (SCCs) approved by the European Commission."
+      },
+      {
+        "id": "children",
+        "heading": "11. Children's Privacy",
+        "body": "The Service is not directed to children under 13. We do not knowingly collect personal data from children under 13. If you believe a child has provided us with personal data, please contact us and we will delete it promptly.\n\nFor education products used by students under 18, we comply with applicable student privacy laws and only process data as directed by the educational institution."
+      },
+      {
+        "id": "changes",
+        "heading": "12. Changes to This Policy",
+        "body": "We may update this Privacy Policy periodically. We will notify you of material changes via email or in-app notification at least 14 days before the changes take effect. The \"Last updated\" date at the top reflects the most recent revision."
+      },
+      {
+        "id": "contact",
+        "heading": "13. Contact & Data Protection Officer",
+        "body": "For privacy inquiries or to exercise your rights:\n\nV V Technology Pte. Ltd.\nSingapore\nEmail: privacy@vvai.com\n\nFor GDPR-related inquiries, our Data Protection Officer can also be reached at the email above."
+      }
+    ]
+  },
+  "form": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "companyName": "Company Name",
+    "workEmail": "Work Email",
+    "workPhone": "Work Phone",
+    "companySize": "Company Size",
+    "primaryInterest": "Primary Interest",
+    "message": "Message",
+    "optional": "(optional)",
+    "firstNamePlaceholder": "Jane",
+    "lastNamePlaceholder": "Smith",
+    "companyPlaceholder": "Acme Corporation",
+    "emailPlaceholder": "jane@company.com",
+    "phonePlaceholder": "+1 555 000 0000",
+    "messagePlaceholder": "Tell us about your use case or any specific questions...",
+    "selectDefault": "Select...",
+    "companySizeOptions": {
+      "1_10": "1–10 employees",
+      "11_50": "11–50 employees",
+      "51_200": "51–200 employees",
+      "201_500": "201–500 employees",
+      "500plus": "500+ employees"
+    },
+    "interestOptions": {
+      "work": "Work Suite",
+      "education": "Education Suite",
+      "life": "Life Suite",
+      "health": "Health Suite",
+      "all": "All Suites"
+    },
+    "submitting": "Sending…",
+    "successTitle": "Request Received!",
+    "successBody": "Thank you! Our team will be in touch within 1 business day.",
+    "submitAnother": "Submit another request",
+    "networkError": "Network error. Please check your connection and try again.",
+    "bySubmitting": "By submitting, you agree to our",
+    "termsLink": "Terms of Service",
+    "privacyLink": "Privacy Policy",
+    "and": "and"
+  },
+  "productsPage": {
+    "meta": {
+      "title": "Products — V V AI",
+      "description": "Explore the V V AI platform: four purpose-built suites — Work, Education, Life, and Health — unified by a multimodal AI engine."
+    },
+    "hero": {
+      "label": "Products",
+      "heading": "The",
+      "headingGradient": "V V AI Platform",
+      "body": "Four purpose-built suites — Work, Education, Life, and Health — unified by a multimodal AI engine that connects people, businesses, and services."
+    },
+    "suites": {
+      "label": "Our Suites",
+      "heading": "Choose your suite",
+      "body": "Each suite is independently powerful — together they form a complete intelligent platform.",
+      "explore": "Explore {label} →"
+    },
+    "highlights": {
+      "label": "Why V V AI",
+      "heading": "One platform,",
+      "headingGradient": "built for the AI era",
+      "items": [
+        {
+          "icon": "🤖",
+          "title": "Multimodal AI Engine",
+          "description": "Natural language as the interface — speak, type, or act, and V V AI works on your behalf across every suite."
+        },
+        {
+          "icon": "🔗",
+          "title": "Unified Ecosystem",
+          "description": "One login connects enterprise, education, lifestyle, and health — no more context-switching between apps."
+        },
+        {
+          "icon": "🌏",
+          "title": "Cross-Platform",
+          "description": "Windows, macOS, Android, iOS, and iPadOS — your data and workflows follow you everywhere."
+        },
+        {
+          "icon": "🔒",
+          "title": "End-to-End Encrypted",
+          "description": "ISO 27001 certified and GDPR compliant. Every communication and document is encrypted at rest and in transit."
+        }
+      ]
+    },
+    "cta": {
+      "heading": "Not sure which suite fits your needs?",
+      "body": "Our team will help you find the right combination for your organisation or personal workflow.",
+      "talkSales": "Talk to Sales",
+      "bookDemo": "Book a Demo"
+    }
+  },
+  "news": {
+    "meta": {
+      "title": "News — V V AI",
+      "description": "Latest product updates, company news, and security announcements from V V AI."
+    },
+    "hero": {
+      "label": "News & Updates",
+      "heading": "What's New at",
+      "headingGradient": "V V AI",
+      "body": "Product launches, company milestones, and security updates — all in one place."
+    },
+    "featured": "Featured",
+    "readMore": "Read More",
+    "readArrow": "Read →",
+    "cms": "Full article pages powered by CMS — coming soon.",
+    "subscribe": "Subscribe for updates",
+    "categories": {
+      "product": "Product",
+      "company": "Company",
+      "security": "Security",
+      "partnerships": "Partnerships"
+    },
+    "posts": [
+      {
+        "title": "V V AI Engine 2.0: Multi-Modal Intelligence is Here",
+        "excerpt": "Our next-generation AI foundation now understands text, voice, and images simultaneously — powering smarter work agents and personal assistants.",
+        "categoryKey": "product",
+        "date": "March 28, 2026",
+        "readTime": "4 min read"
+      },
+      {
+        "title": "V V AI Reaches 100+ Education Partners Across APAC",
+        "excerpt": "From Singapore to the Philippines, our education suite now powers home-school collaboration for over 100 institutions and thousands of families.",
+        "categoryKey": "partnerships",
+        "date": "March 15, 2026",
+        "readTime": "3 min read"
+      },
+      {
+        "title": "ISO 27001:2022 Re-Certification Achieved",
+        "excerpt": "V V AI has successfully re-certified under ISO 27001:2022, reinforcing our commitment to information security management and enterprise trust.",
+        "categoryKey": "security",
+        "date": "February 20, 2026",
+        "readTime": "2 min read"
+      },
+      {
+        "title": "Introducing Health Suite: Your AI-Powered Health Manager",
+        "excerpt": "V V Health brings intelligent health tracking, appointment management, and resource sharing to individuals and healthcare providers alike.",
+        "categoryKey": "product",
+        "date": "February 5, 2026",
+        "readTime": "5 min read"
+      },
+      {
+        "title": "V V Technology Pte. Ltd. Closes Series A Round",
+        "excerpt": "We are pleased to announce the closing of our Series A funding round, accelerating our mission to build AI services across all four life domains.",
+        "categoryKey": "company",
+        "date": "January 12, 2026",
+        "readTime": "3 min read"
+      },
+      {
+        "title": "GDPR Compliance Update: What It Means for Our EU Users",
+        "excerpt": "Full details on our Standard Contractual Clauses, data residency options, and new DPO appointment for European users.",
+        "categoryKey": "security",
+        "date": "December 18, 2025",
+        "readTime": "4 min read"
+      }
+    ]
+  },
+  "products": {
+    "featureGrid": {
+      "label": "Features",
+      "heading": "Everything You Need,",
+      "headingGradient": "Built In"
+    },
+    "moduleList": {
+      "label": "Modules",
+      "headingCount": "{count}+ Integrated Modules,",
+      "headingGradient": "One Platform",
+      "body": "Every module works together seamlessly — no integrations, no silos, no extra cost.",
+      "new": "New"
+    },
+    "securityBar": {
+      "label": "Enterprise-grade security",
+      "certs": [
+        {
+          "label": "ISO 27001",
+          "sub": "Certified"
+        },
+        {
+          "label": "GDPR",
+          "sub": "Compliant"
+        },
+        {
+          "label": "E2E Encryption",
+          "sub": "End-to-End"
+        },
+        {
+          "label": "SOC 2",
+          "sub": "Type II"
+        },
+        {
+          "label": "99.9% Uptime",
+          "sub": "SLA Guarantee"
+        }
+      ]
+    },
+    "suiteHero": {
+      "demo": "Book a Demo",
+      "poweredBy": "Powered by",
+      "engine": "V V AI Engine"
+    },
+    "showcase": {
+      "label": "Product Showcase",
+      "heading": "See {suite} in Action"
+    }
+  },
+  "suites": {
+    "work": {
+      "label": "V V Work",
+      "headline": "One-Stop Smart Collaboration Platform",
+      "subline": "Connecting You to the \"V\" World of Intelligence",
+      "tagline": "Smart · Convenient · Personalized · Collaborative",
+      "keywords": ["Smart", "Convenient", "Personalized", "Collaborative"],
+      "ctaLabel": "Explore V V Work",
+      "screenshots": [
+        {
+          "headline": "Seamless Enterprise Management: Organize Your Company and Organization From Startup to MNC Effortlessly",
+          "subtitle": "From lean startups to large multinationals, V V Work adapts to any organizational scale — giving you clear hierarchy management, role-based access, and unified visibility across every department and subsidiary."
+        },
+        {
+          "headline": "Comprehensive Human Resource Management: Smarter Recruitment, Flexible and Compliant Payroll System",
+          "subtitle": "Streamline your entire HR lifecycle — post jobs, screen candidates with AI, run compliant multi-region payrolls, manage attendance, and conduct performance reviews, all from a single platform."
+        },
+        {
+          "headline": "Data-Result Driven Work Management: Seamless Online Collaboration for Better Efficiency",
+          "subtitle": "Set OKRs, break them into trackable milestones, and monitor real-time progress across every team. AI analytics surface bottlenecks early so your organization stays focused and results remain measurable."
+        },
+        {
+          "headline": "Unified Communication & Collaboration: Timely, Efficient, and Intelligent for Every Team",
+          "subtitle": "One-click meetings, intelligent group messaging, real-time document co-editing, smart calendar planning, and secure V Drive file access — every tool your team needs to communicate and collaborate, all in one place."
+        }
+      ],
+      "features": [
+        {
+          "icon": "🤖",
+          "title": "AI Work Agent",
+          "description": "Super-intelligent AI agent that automates workflows, drafts documents, and surfaces insights on demand."
+        },
+        {
+          "icon": "🎯",
+          "title": "OKR & Project Tracking",
+          "description": "Set goals, track milestones, and keep every team aligned with transparent real-time progress boards."
+        },
+        {
+          "icon": "💬",
+          "title": "Encrypted IM & Meetings",
+          "description": "End-to-end encrypted messaging, video conferencing, and smart room booking — all in one place."
+        },
+        {
+          "icon": "👥",
+          "title": "HR Management Suite",
+          "description": "Attendance, payroll, onboarding, performance reviews — the full employee lifecycle in one platform."
+        },
+        {
+          "icon": "⚡",
+          "title": "Smart Workflows",
+          "description": "Configurable approval flows and process automation that cut manual work by up to 60%."
+        },
+        {
+          "icon": "📊",
+          "title": "Live Analytics",
+          "description": "Real-time dashboards with AI-generated summaries so leadership always has the full picture."
+        }
+      ]
+    },
+    "education": {
+      "label": "V V Education",
+      "headline": "One-stop Educational AI Solutions for All Scenarios",
+      "subline": "The First Agentic AI Operating System for School Ecosystems",
+      "tagline": "Scaling Education with an AI-Driven Performance Engine",
+      "keywords": ["Collaborative", "Private", "Efficient", "Targeted"],
+      "ctaLabel": "Explore V V Education",
+      "screenshots": [
+        {
+          "headline": "The Next Generation of School Management: AI-Powered, Human-Connected",
+          "subtitle": "Powering education through AI—streamlining back-office operations and connecting headquarters to parents in one seamless ecosystem."
+        },
+        {
+          "headline": "The All-in-One Operating System Driving Growth and Efficiency",
+          "subtitle": "Streamline the entire school enrollment lifecycle—from branding, sign-ups and billing to after-enrollment support—with AI-powered automation."
+        },
+        {
+          "headline": "B2C Smart Teaching and Learning",
+          "subtitle": "Empower educators and inspire students with an AI-integrated LMS that automates lesson scheduling, teaching planning, personalizes study paths, and provides 24/7 intelligent tutoring assistants."
+        },
+        {
+          "headline": "Home-School Smart IM Communication",
+          "subtitle": "Bridge the gap with an AI-powered IM ecosystem that delivers real-time student updates, automated event reminders, and instant multilingual translation for seamless parent-teacher collaboration."
+        }
+      ],
+      "features": [
+        {
+          "icon": "🏫",
+          "title": "Home-School Collaboration",
+          "description": "Bridge the gap between institutions and families with real-time updates, messages, and shared learning plans."
+        },
+        {
+          "icon": "🧠",
+          "title": "AI Tutor",
+          "description": "Personalised AI-powered learning assistance that adapts to each student's pace and unique style."
+        },
+        {
+          "icon": "📋",
+          "title": "Class Management",
+          "description": "Scheduling, attendance tracking, homework distribution, and grade management — all automated."
+        },
+        {
+          "icon": "📈",
+          "title": "Learning Reports",
+          "description": "Periodic AI-generated progress reports for parents, students, and educators across multiple institutions."
+        },
+        {
+          "icon": "🛒",
+          "title": "Course Sales Platform",
+          "description": "Built-in enrollment, payment, and referral management tools to grow your education business."
+        },
+        {
+          "icon": "🔔",
+          "title": "Smart Notifications",
+          "description": "Automated alerts keep parents, students, and teachers informed — without the information overload."
+        }
+      ]
+    },
+    "life": {
+      "label": "V V Life",
+      "headline": "Your Personal and Reliable Smart Lifestyle Planner",
+      "subline": "Connecting You to the \"V\" World of Convenience",
+      "tagline": "Digital · Convenient · Comprehensive · Connected",
+      "keywords": ["Digital", "Convenient", "Comprehensive", "Connected"],
+      "ctaLabel": "Explore V V Life",
+      "features": [
+        {
+          "icon": "✨",
+          "title": "AI Life Assistant",
+          "description": "A proactive digital companion that anticipates your needs and acts on your words before you ask."
+        },
+        {
+          "icon": "🍽️",
+          "title": "Dining & Travel",
+          "description": "Smart restaurant discovery, reservation management, trip itineraries, and local service access."
+        },
+        {
+          "icon": "📅",
+          "title": "Life Calendar",
+          "description": "Personal and family scheduling unified in one view — work, social, health, and learning events."
+        },
+        {
+          "icon": "🌐",
+          "title": "Connected Services",
+          "description": "One-click access to a curated ecosystem of lifestyle services including finance, transport, and home."
+        },
+        {
+          "icon": "🔒",
+          "title": "Private & Secure",
+          "description": "Your personal data stays private. End-to-end encryption keeps every activity and preference protected."
+        },
+        {
+          "icon": "🌙",
+          "title": "Invisible Companion",
+          "description": "Runs quietly in the background, surfaces smart suggestions exactly when you need them, never when you don't."
+        }
+      ]
+    },
+    "health": {
+      "label": "V V Health",
+      "headline": "Your Reliable, Quick-Response Health Manager",
+      "subline": "Connecting You to the \"V\" World of Health",
+      "tagline": "Smart · Reliable · Caring · Collaborative",
+      "keywords": ["Smart", "Reliable", "Caring", "Collaborative"],
+      "ctaLabel": "Explore V V Health",
+      "features": [
+        {
+          "icon": "❤️",
+          "title": "Health Overview",
+          "description": "A comprehensive health dashboard that aggregates all your metrics, records, and appointments in one view."
+        },
+        {
+          "icon": "📆",
+          "title": "Appointment Booking",
+          "description": "Quick and easy doctor booking with intelligent scheduling that respects your availability."
+        },
+        {
+          "icon": "📁",
+          "title": "Health Records",
+          "description": "Centralised and secure storage for all medical history, test results, prescriptions, and documents."
+        },
+        {
+          "icon": "⚠️",
+          "title": "AI Risk Detection",
+          "description": "Pattern-based AI alerts that identify health risks early — prevention is better than cure."
+        },
+        {
+          "icon": "🤝",
+          "title": "Care Coordination",
+          "description": "Connect seamlessly with healthcare providers, family caregivers, and specialists within the platform."
+        },
+        {
+          "icon": "📚",
+          "title": "Health Resources",
+          "description": "Curated, reliable health education content that empowers you to make informed wellness decisions."
+        }
+      ]
+    }
+  },
+  "modules": {
+    "groups": {
+      "hr-management": "HR Management",
+      "enterprise-management": "Enterprise Management",
+      "work-management": "Work Management",
+      "communication": "Communication & Collaboration",
+      "ai-tools": "AI Tools",
+      "education": "Education",
+      "life": "Life",
+      "health": "Health"
+    },
+    "items": {
+      "attendance": {
+        "name": "Attendance",
+        "description": "Intelligent Time Attendance Tracking"
+      },
+      "salary": {
+        "name": "Salary",
+        "description": "Core Payroll Data Integration"
+      },
+      "performance": {
+        "name": "Performance",
+        "description": "Multi-dimensional Performance Management"
+      },
+      "onboarding": {
+        "name": "Onboarding",
+        "description": "Eliminate Data Fragmentation, Centralize Data"
+      },
+      "confirmation": {
+        "name": "Confirmation",
+        "description": "Provide Insights & Support Decision Making"
+      },
+      "staff-transfer": {
+        "name": "Staff Transfer",
+        "description": "Convenient & Efficient Job Transfers"
+      },
+      "resignations": {
+        "name": "Resignations",
+        "description": "Seamless Digital Service Integration"
+      },
+      "organization": {
+        "name": "Organization",
+        "description": "Clear Structure, Easy Adjustment"
+      },
+      "company": {
+        "name": "Company",
+        "description": "Agile Global Enterprise Management"
+      },
+      "workflow": {
+        "name": "Workflow",
+        "description": "Intelligent Processes & Efficient Approval"
+      },
+      "policy": {
+        "name": "Policy",
+        "description": "Flexible Configuration & Convenient Management"
+      },
+      "office-supplies": {
+        "name": "Office Supplies",
+        "description": "Resource Management & Cost Control"
+      },
+      "contracts": {
+        "name": "Contracts",
+        "description": "Smart Contract Management to Empower Business"
+      },
+      "employees": {
+        "name": "Employees",
+        "description": "Integrated Data Management"
+      },
+      "access-rights": {
+        "name": "Access Rights",
+        "description": "Flexible & Secure Management"
+      },
+      "okr": {
+        "name": "Objective (OKR)",
+        "description": "Goal Breakdown, Result-Oriented"
+      },
+      "projects": {
+        "name": "Projects",
+        "description": "Integrated Task Management"
+      },
+      "tasks": {
+        "name": "Tasks",
+        "description": "Transparent Work & Data Quantification"
+      },
+      "tickets": {
+        "name": "Tickets",
+        "description": "Problem Tracking & Closed-loop Management"
+      },
+      "dashboard": {
+        "name": "Dashboard",
+        "description": "Real-time Team Data Management"
+      },
+      "im": {
+        "name": "IM",
+        "description": "Timely & Efficient Information Delivery"
+      },
+      "meetings": {
+        "name": "Meetings",
+        "description": "Video conferencing & teleconferencing"
+      },
+      "meeting-rooms": {
+        "name": "Meeting Rooms",
+        "description": "Smart room management"
+      },
+      "calendar": {
+        "name": "Calendar",
+        "description": "Scheduling & coordination"
+      },
+      "email": {
+        "name": "Email",
+        "description": "Business email integration"
+      },
+      "document": {
+        "name": "Document",
+        "description": "Online document collaboration"
+      },
+      "board": {
+        "name": "Board",
+        "description": "Visual project boards"
+      },
+      "microdisk": {
+        "name": "MicroDisk",
+        "description": "Cloud storage"
+      },
+      "multilingual": {
+        "name": "Multilingual",
+        "description": "Real-time translation"
+      },
+      "ai-work-agent": {
+        "name": "AI Work Agent",
+        "description": "Super-intelligent AI work agent"
+      },
+      "recruitment": {
+        "name": "Recruitment",
+        "description": "Global Recruitment Management"
+      },
+      "feedback": {
+        "name": "Feedback Expert",
+        "description": "AI Review Management"
+      },
+      "customer-svc": {
+        "name": "Customer Service",
+        "description": "AI Customer Service"
+      },
+      "data-expert": {
+        "name": "Data Expert",
+        "description": "AI Business Intelligence"
+      },
+      "evaluation": {
+        "name": "Evaluation Expert",
+        "description": "Assessment & Analytics"
+      },
+      "process-expert": {
+        "name": "Process Expert",
+        "description": "Workflow Automation"
+      },
+      "class-mgmt": {
+        "name": "Class Management",
+        "description": "Schedule, track, and manage classes with ease"
+      },
+      "student-profile": {
+        "name": "Student Profiles",
+        "description": "Comprehensive learner records & progress tracking"
+      },
+      "homework": {
+        "name": "Homework",
+        "description": "Digital assignment distribution & submission"
+      },
+      "learning-report": {
+        "name": "Learning Reports",
+        "description": "Periodic progress analytics for parents & staff"
+      },
+      "course-sales": {
+        "name": "Course Sales",
+        "description": "Streamlined enrollment & payment platform"
+      },
+      "notifications": {
+        "name": "Smart Notifications",
+        "description": "Automated alerts for parents, students, teachers"
+      },
+      "ai-tutor": {
+        "name": "AI Tutor",
+        "description": "Personalised AI-powered learning assistance"
+      },
+      "life-assistant": {
+        "name": "AI Life Assistant",
+        "description": "Proactive personal suggestions & smart reminders"
+      },
+      "dining": {
+        "name": "Dining",
+        "description": "Restaurant discovery & reservation management"
+      },
+      "travel": {
+        "name": "Travel",
+        "description": "Trip planning & itinerary management"
+      },
+      "life-calendar": {
+        "name": "Life Calendar",
+        "description": "Personal & family scheduling in one place"
+      },
+      "services": {
+        "name": "Life Services",
+        "description": "One-click access to curated local services"
+      },
+      "finance": {
+        "name": "Personal Finance",
+        "description": "Expense tracking & budget management"
+      },
+      "health-overview": {
+        "name": "Health Overview",
+        "description": "Comprehensive health dashboard & metrics"
+      },
+      "appointments": {
+        "name": "Appointments",
+        "description": "Quick doctor booking & appointment management"
+      },
+      "health-records": {
+        "name": "Health Records",
+        "description": "Centralised medical history & documents"
+      },
+      "risk-detection": {
+        "name": "Risk Detection",
+        "description": "AI-powered health alerts & prevention insights"
+      },
+      "care-coord": {
+        "name": "Care Coordination",
+        "description": "Connect with healthcare providers seamlessly"
+      },
+      "health-resources": {
+        "name": "Health Resources",
+        "description": "Curated educational health content library"
+      }
+    }
+  }
+}

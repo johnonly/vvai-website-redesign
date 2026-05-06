@@ -1,0 +1,21 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+
+    "ms-vscode.vscode-typescript-next",
+    "dsznajder.es7-react-js-snippets",
+
+    "eamodio.gitlens",
+
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-preview-github-styles",
+
+    "christian-kohler.path-intellisense",
+    "naumovs.color-highlight",
+    "mikestead.dotenv",
+    "formulahendry.auto-rename-tag",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
