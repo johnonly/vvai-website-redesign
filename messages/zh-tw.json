@@ -644,6 +644,11 @@
       "body": "我們的團隊將協助您了解哪些套件和功能最適合您的具體需求和規模。",
       "ctaContact": "聯絡銷售",
       "ctaDemo": "預約示範"
+    },
+    "comingSoon": {
+      "badge": "即將推出",
+      "title": "{suite} 即將推出",
+      "body": "我們正在對此套件進行最後的完善。加入等候名單，在準備就緒時獲得通知。"
     }
   },
   "securityPage": {
@@ -1245,6 +1250,11 @@
       "heading": "選擇您的套件",
       "body": "每個套件獨立強大——共同構成完整的智慧平台。",
       "explore": "探索 {label} →"
+    },
+    "comingSoon": {
+      "badge": "即將推出",
+      "title": "{suite} 即將推出",
+      "body": "我們正在對此套件進行最後的完善。加入等候名單，在準備就緒時獲得通知。"
     },
     "highlights": {
       "label": "為何選擇 V V AI",

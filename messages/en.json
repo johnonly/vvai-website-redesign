@@ -645,6 +645,11 @@
       "body": "Our team will help you understand which suites and features best fit your specific needs and scale.",
       "ctaContact": "Contact Sales",
       "ctaDemo": "Book a Demo"
+    },
+    "comingSoon": {
+      "badge": "Coming Soon",
+      "title": "{suite} is launching soon",
+      "body": "We're putting the finishing touches on this suite. Join the waitlist to be notified when it's ready."
     }
   },
   "securityPage": {
@@ -1246,6 +1251,11 @@
       "heading": "Choose your suite",
       "body": "Each suite is independently powerful — together they form a complete intelligent platform.",
       "explore": "Explore {label} →"
+    },
+    "comingSoon": {
+      "badge": "Coming Soon",
+      "title": "{suite} is launching soon",
+      "body": "We're putting the finishing touches on this suite. Join the waitlist to be notified when it's ready."
     },
     "highlights": {
       "label": "Why V V AI",
