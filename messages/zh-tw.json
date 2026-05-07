@@ -249,7 +249,20 @@
         "name": "macOS",
         "subtitle": "適用於需要在 macOS 上進行 AI 協作的創意與跨職能團隊。",
         "badge": "桌面版",
-        "cta": "下載 macOS 版"
+        "cta": "下載 macOS 版",
+        "dialog": {
+          "title": "下載更適合你 Mac 的微微版本",
+          "description": "微微區分了 Mac 電腦的 Intel 晶片和 Apple 晶片，使用正確的晶片類型有助於降低資源消耗，提升軟體效能。",
+          "howToCheck": "如何確定你的MAC電腦晶片類型？",
+          "step1": "點擊左上角蘋果選單，選擇「關於這台 Mac」",
+          "step2": "在「概覽」中的處理器一欄，查看晶片類型是 Intel（英特爾）還是 Apple，並選擇下載對應版本",
+          "intelLabel": "Intel（英特爾）",
+          "appleLabel": "Apple M1/M2/M3/M4",
+          "orText": "或",
+          "noteText": "如果你無法確認晶片版本，可直接下載 Intel 版",
+          "downloadIntel": "下載 Intel 晶片版本",
+          "downloadApple": "下載 Apple 晶片版本"
+        }
       },
       "ios": {
         "name": "iOS / iPadOS",

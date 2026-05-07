@@ -245,7 +245,20 @@
         "name": "macOS",
         "subtitle": "Ideal for creative and cross-functional teams that need AI collaboration on macOS.",
         "badge": "Desktop",
-        "cta": "Download for macOS"
+        "cta": "Download for macOS",
+        "dialog": {
+          "title": "Download the Version That Suits Your Mac",
+          "description": "V V AI is available for Mac computers with Intel chips and Apple chips. Using the correct chip version helps reduce resource consumption and improve software performance.",
+          "howToCheck": "How to confirm your Mac computer chip type?",
+          "step1": "Click the Apple menu icon in the upper left corner and select \"About This Mac\"",
+          "step2": "In the \"Overview\", check if the processor is Intel (Intel) or Apple, and select the corresponding download version",
+          "intelLabel": "Intel (Intel) or Apple",
+          "appleLabel": "Apple M1/M2/M3/M4",
+          "orText": "or",
+          "noteText": "If the version cannot be confirmed, download the Intel version directly",
+          "downloadIntel": "Download Intel version",
+          "downloadApple": "Download Apple version"
+        }
       },
       "ios": {
         "name": "iOS / iPadOS",

@@ -249,7 +249,20 @@
         "name": "macOS",
         "subtitle": "面向需要在 macOS 上进行 AI 协作的创意与跨职能团队。",
         "badge": "桌面端",
-        "cta": "下载 macOS 版"
+        "cta": "下载 macOS 版",
+        "dialog": {
+          "title": "下载更适合你 Mac 的微微版本",
+          "description": "微微区分了 Mac 电脑的 Intel 芯片和 Apple 芯片，使用正确的芯片类型有助于降低资源消耗，提升软件性能。",
+          "howToCheck": "如何确定你的MAC电脑芯片类型？",
+          "step1": "点击左上角苹果菜单，选择「关于本机」",
+          "step2": "在「概览」中的处理器一栏，查看芯片类型是 Intel（英特尔）还是 Apple，并选择下载对应版本",
+          "intelLabel": "Intel（英特尔）",
+          "appleLabel": "Apple M1/M2/M3/M4",
+          "orText": "或",
+          "noteText": "如果你无法确认芯片版本，可直接下载 Intel 版",
+          "downloadIntel": "下载 Intel 芯片版本",
+          "downloadApple": "下载 Apple 芯片版本"
+        }
       },
       "ios": {
         "name": "iOS / iPadOS",
