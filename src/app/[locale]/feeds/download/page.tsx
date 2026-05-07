@@ -158,7 +158,7 @@ export default async function DownloadPage({ params }: PageProps) {
               {t('hero.subtitle')}
             </p>
             <p className="text-text-secondary mx-auto mb-10 max-w-2xl text-base">
-              Choose your platform below to download directly or scan a QR code on mobile.
+              {t('hero.platformsDescription')}
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <Button href="/demo" variant="outline" size="lg">
