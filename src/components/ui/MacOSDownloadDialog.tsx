@@ -13,9 +13,6 @@ interface MacOSDownloadDialogProps {
     howToCheck: string
     step1: string
     step2: string
-    intelLabel: string
-    appleLabel: string
-    orText: string
     noteText: string
     downloadIntel: string
     downloadApple: string
@@ -83,54 +80,44 @@ export default function MacOSDownloadDialog({
         <div className="mb-8 rounded-xl bg-blue-500/5 p-6">
           <h3 className="text-text-primary mb-4 text-lg font-semibold">{t.howToCheck}</h3>
           
-          {/* Step-by-step visual guide with images */}
-          <div className="space-y-4">
-            {/* Step 1 */}
-            <div className="flex items-start gap-3">
-              <div className="bg-brand-blue text-white flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-sm font-bold">
-                1
-              </div>
-              <div className="flex-1">
-                <Image
-                  src={`/images/vv/V V download/step_1_${localeSuffix}.png`}
-                  alt="Step 1"
-                  width={600}
-                  height={100}
-                  className="rounded-lg border border-gray-200 dark:border-gray-700"
-                />
-              </div>
-            </div>
+          {/* Text steps */}
+          <div className="mb-6 space-y-2">
+            <p className="text-text-secondary text-sm leading-relaxed">
+              <span className="font-semibold">1.</span> {t.step1}
+            </p>
+            <p className="text-text-secondary text-sm leading-relaxed">
+              <span className="font-semibold">2.</span> {t.step2}
+            </p>
+          </div>
 
-            {/* Step 2 */}
-            <div className="flex items-start gap-3">
-              <div className="bg-brand-blue text-white flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-sm font-bold">
-                2
-              </div>
-              <div className="flex-1">
-                <Image
-                  src={`/images/vv/V V download/step_2_${localeSuffix}.png`}
-                  alt="Step 2"
-                  width={600}
-                  height={200}
-                  className="rounded-lg border border-gray-200 dark:border-gray-700"
-                />
-              </div>
+          {/* Visual guide images */}
+          <div className="grid grid-cols-1 gap-4 md:grid-cols-3">
+            <div className="flex flex-col items-center gap-2">
+              <Image
+                src={`/images/vv/V V download/step_1_${localeSuffix}.png`}
+                alt="Step 1"
+                width={200}
+                height={150}
+                className="rounded-lg border border-gray-200 dark:border-gray-700"
+              />
             </div>
-
-            {/* Step 3: Visual comparison */}
-            <div className="flex items-start gap-3">
-              <div className="bg-brand-blue text-white flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-sm font-bold">
-                3
-              </div>
-              <div className="flex-1">
-                <Image
-                  src={`/images/vv/V V download/step_3_${localeSuffix}.png`}
-                  alt="Step 3"
-                  width={600}
-                  height={200}
-                  className="rounded-lg border border-gray-200 dark:border-gray-700"
-                />
-              </div>
+            <div className="flex flex-col items-center gap-2">
+              <Image
+                src={`/images/vv/V V download/step_2_${localeSuffix}.png`}
+                alt="Step 2"
+                width={200}
+                height={150}
+                className="rounded-lg border border-gray-200 dark:border-gray-700"
+              />
+            </div>
+            <div className="flex flex-col items-center gap-2">
+              <Image
+                src={`/images/vv/V V download/step_3_${localeSuffix}.png`}
+                alt="Step 3"
+                width={200}
+                height={150}
+                className="rounded-lg border border-gray-200 dark:border-gray-700"
+              />
             </div>
           </div>
 
@@ -141,18 +128,16 @@ export default function MacOSDownloadDialog({
         <div className="flex flex-col gap-4 sm:flex-row">
           <button
             onClick={() => handleDownload('intel')}
-            className="group flex-1 rounded-xl border-2 border-blue-500 bg-blue-500 px-6 py-4 text-center font-semibold text-white transition-all hover:bg-blue-600 hover:border-blue-600 hover:shadow-lg hover:shadow-blue-500/25"
+            className="flex-1 rounded-xl bg-blue-500 px-6 py-3.5 text-center font-semibold text-white transition-all hover:bg-blue-600 hover:shadow-lg hover:shadow-blue-500/25"
           >
-            <div className="mb-2 text-lg">{t.downloadIntel}</div>
-            <div className="text-xs opacity-90">{t.intelLabel}</div>
+            {t.downloadIntel}
           </button>
 
           <button
             onClick={() => handleDownload('apple')}
-            className="group flex-1 rounded-xl border-2 border-orange-500 bg-linear-to-r from-[#FFC43A] to-[#F68E0B] px-6 py-4 text-center font-semibold text-white transition-all hover:shadow-lg hover:shadow-orange-500/25 hover:-translate-y-0.5"
+            className="flex-1 rounded-xl bg-gradient-to-r from-[#FFC43A] to-[#F68E0B] px-6 py-3.5 text-center font-semibold text-white transition-all hover:shadow-lg hover:shadow-orange-500/25 hover:-translate-y-0.5"
           >
-            <div className="mb-2 text-lg">{t.downloadApple}</div>
-            <div className="text-xs opacity-90">{t.appleLabel}</div>
+            {t.downloadApple}
           </button>
         </div>
       </div>

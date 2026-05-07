@@ -247,17 +247,14 @@
         "badge": "Desktop",
         "cta": "Download for macOS",
         "dialog": {
-          "title": "Download the Version That Suits Your Mac",
-          "description": "V V AI is available for Mac computers with Intel chips and Apple chips. Using the correct chip version helps reduce resource consumption and improve software performance.",
-          "howToCheck": "How to confirm your Mac computer chip type?",
-          "step1": "Click the Apple menu icon in the upper left corner and select \"About This Mac\"",
-          "step2": "In the \"Overview\", check if the processor is Intel (Intel) or Apple, and select the corresponding download version",
-          "intelLabel": "Intel (Intel) or Apple",
-          "appleLabel": "Apple M1/M2/M3/M4",
-          "orText": "or",
-          "noteText": "If the version cannot be confirmed, download the Intel version directly",
-          "downloadIntel": "Download Intel version",
-          "downloadApple": "Download Apple version"
+          "title": "Download the version of the V V that is better suited for your Mac",
+          "description": "V V distinguishes between Intel and Apple chips on Mac computers, and using the right chip type can help reduce resource consumption and improve software performance.",
+          "howToCheck": "HOW TO DETERMINE YOUR MAC COMPUTER CHIP TYPE?",
+          "step1": "Click the Apple menu in the upper left corner and select \"About This Mac\"",
+          "step2": "In the processor column of \"Overview\", check whether the chip type is Intel or Apple, and select Download the corresponding version",
+          "noteText": "If you can't confirm the chip version, you can download the Intel version directly",
+          "downloadIntel": "Download the Intel chip version",
+          "downloadApple": "Download the Apple chip version"
         }
       },
       "ios": {
