@@ -116,6 +116,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 }
 
 export default async function DownloadPage({ params }: PageProps) {
+  const { locale } = await params
   const t = await getTranslations('download')
 
   // Get macOS dialog translations
@@ -278,7 +279,7 @@ export default async function DownloadPage({ params }: PageProps) {
               return (
                 <ScrollReveal key={key} delay={i * 0.08}>
                   {isMacOS ? (
-                    <MacOSDownloadWithDialog translations={macOSDialog}>
+                    <MacOSDownloadWithDialog locale={locale} translations={macOSDialog}>
                       {(props) => renderCard(props)}
                     </MacOSDownloadWithDialog>
                   ) : (

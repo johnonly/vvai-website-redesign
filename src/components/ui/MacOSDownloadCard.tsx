@@ -9,6 +9,7 @@ interface MacOSDownloadCardProps {
 
 interface MacOSDownloadWithDialogProps {
   children: (props: MacOSDownloadCardProps) => React.ReactNode
+  locale: string
   translations: {
     title: string
     description: string
@@ -24,7 +25,7 @@ interface MacOSDownloadWithDialogProps {
   }
 }
 
-export default function MacOSDownloadWithDialog({ children, translations }: MacOSDownloadWithDialogProps) {
+export default function MacOSDownloadWithDialog({ children, locale, translations }: MacOSDownloadWithDialogProps) {
   const [isDialogOpen, setIsDialogOpen] = useState(false)
 
   return (
@@ -33,6 +34,7 @@ export default function MacOSDownloadWithDialog({ children, translations }: MacO
       <MacOSDownloadDialog
         isOpen={isDialogOpen}
         onClose={() => setIsDialogOpen(false)}
+        locale={locale}
         translations={translations}
       />
     </>

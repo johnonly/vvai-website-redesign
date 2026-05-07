@@ -1,10 +1,12 @@
 'use client'
 
 import { useState } from 'react'
+import Image from 'next/image'
 
 interface MacOSDownloadDialogProps {
   isOpen: boolean
   onClose: () => void
+  locale: string
   translations: {
     title: string
     description: string
@@ -23,11 +25,26 @@ interface MacOSDownloadDialogProps {
 export default function MacOSDownloadDialog({
   isOpen,
   onClose,
+  locale,
   translations: t,
 }: MacOSDownloadDialogProps) {
   const [selectedChip, setSelectedChip] = useState<'intel' | 'apple' | null>(null)
 
   if (!isOpen) return null
+
+  // Map locale to image suffix
+  const getLocaleSuffix = () => {
+    switch (locale) {
+      case 'zh':
+        return 'cn'
+      case 'zh-tw':
+        return 'zh-tw'
+      default:
+        return 'en'
+    }
+  }
+
+  const localeSuffix = getLocaleSuffix()
 
   const handleDownload = (chipType: 'intel' | 'apple') => {
     const url =
@@ -65,52 +82,54 @@ export default function MacOSDownloadDialog({
         {/* How to check your chip */}
         <div className="mb-8 rounded-xl bg-blue-500/5 p-6">
           <h3 className="text-text-primary mb-4 text-lg font-semibold">{t.howToCheck}</h3>
-          <ol className="text-text-secondary space-y-2 text-sm">
-            <li className="flex gap-2">
-              <span className="font-semibold">1.</span>
-              <span>{t.step1}</span>
-            </li>
-            <li className="flex gap-2">
-              <span className="font-semibold">2.</span>
-              <span>{t.step2}</span>
-            </li>
-          </ol>
-
-          {/* Visual guide */}
-          <div className="mt-6 flex flex-wrap items-center justify-center gap-4">
-            {/* Intel example */}
-            <div className="relative flex-1 min-w-50">
-              <div className="rounded-xl border border-gray-200 bg-gray-900 p-4 dark:border-gray-700">
-                <div className="mb-2 flex items-center justify-between">
-                  <span className="text-sm font-semibold text-white">MacBook Pro</span>
-                  <span className="rounded-md bg-blue-500 px-2 py-0.5 text-xs font-semibold text-white">
-                    Intel
-                  </span>
-                </div>
-                <div className="space-y-1 text-xs text-gray-300">
-                  <div>Processor: 2.3 GHz 8-Core Intel Core i9</div>
-                  <div>Graphics: Radeon Pro 560X 4 GB</div>
-                  <div>Memory: 16 GB 2400 MHz DDR4</div>
-                </div>
+          
+          {/* Step-by-step visual guide with images */}
+          <div className="space-y-4">
+            {/* Step 1 */}
+            <div className="flex items-start gap-3">
+              <div className="bg-brand-blue text-white flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-sm font-bold">
+                1
+              </div>
+              <div className="flex-1">
+                <Image
+                  src={`/images/vv/V V download/step_1_${localeSuffix}.png`}
+                  alt="Step 1"
+                  width={600}
+                  height={100}
+                  className="rounded-lg border border-gray-200 dark:border-gray-700"
+                />
               </div>
             </div>
 
-            <span className="text-text-secondary text-sm font-medium">{t.orText}</span>
+            {/* Step 2 */}
+            <div className="flex items-start gap-3">
+              <div className="bg-brand-blue text-white flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-sm font-bold">
+                2
+              </div>
+              <div className="flex-1">
+                <Image
+                  src={`/images/vv/V V download/step_2_${localeSuffix}.png`}
+                  alt="Step 2"
+                  width={600}
+                  height={200}
+                  className="rounded-lg border border-gray-200 dark:border-gray-700"
+                />
+              </div>
+            </div>
 
-            {/* Apple Silicon example */}
-            <div className="relative flex-1 min-w-50">
-              <div className="rounded-xl border border-gray-200 bg-gray-900 p-4 dark:border-gray-700">
-                <div className="mb-2 flex items-center justify-between">
-                  <span className="text-sm font-semibold text-white">MacBook Pro</span>
-                  <span className="rounded-md bg-orange-500 px-2 py-0.5 text-xs font-semibold text-white">
-                    Apple
-                  </span>
-                </div>
-                <div className="space-y-1 text-xs text-gray-300">
-                  <div>Chip: Apple M2</div>
-                  <div>Memory: 16 GB</div>
-                  <div>Serial Number: Macintosh HD</div>
-                </div>
+            {/* Step 3: Visual comparison */}
+            <div className="flex items-start gap-3">
+              <div className="bg-brand-blue text-white flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-sm font-bold">
+                3
+              </div>
+              <div className="flex-1">
+                <Image
+                  src={`/images/vv/V V download/step_3_${localeSuffix}.png`}
+                  alt="Step 3"
+                  width={600}
+                  height={200}
+                  className="rounded-lg border border-gray-200 dark:border-gray-700"
+                />
               </div>
             </div>
           </div>
