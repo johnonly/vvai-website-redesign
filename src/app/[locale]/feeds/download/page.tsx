@@ -195,7 +195,6 @@ export default async function DownloadPage({ params }: PageProps) {
                   {isMacOS ? (
                     <MacOSCard
                       locale={locale}
-                      icon={Icon}
                       color={color}
                       name={t(`platforms.${key}.name`)}
                       subtitle={t(`platforms.${key}.subtitle`)}
