@@ -3,7 +3,7 @@ import GlassCard from '@/components/ui/GlassCard'
 import GradientText from '@/components/ui/GradientText'
 import ScrollReveal from '@/components/ui/ScrollReveal'
 import SectionLabel from '@/components/ui/SectionLabel'
-import MacOSDownloadWithDialog from '@/components/ui/MacOSDownloadCard'
+import MacOSCard from '@/components/download/MacOSCard'
 import type { Metadata } from 'next'
 import { getTranslations } from 'next-intl/server'
 import Image from 'next/image'
@@ -190,100 +190,92 @@ export default async function DownloadPage({ params }: PageProps) {
               const ctaLabel = t(`platforms.${key}.cta`)
               const isMacOS = key === 'macos'
 
-              const renderCard = (macOSProps?: { onClick: () => void }) => (
-                <GlassCard hover className="flex h-full flex-col p-7">
-                  {/* ── Header: platform icon + badge ── */}
-                  <div className="mb-5 flex items-start justify-between">
-                    <div
-                      className="flex h-14 w-14 items-center justify-center rounded-2xl"
-                      style={{ backgroundColor: `${color}18`, color }}
-                    >
-                      <Icon className="h-7 w-7" />
-                    </div>
-                    <span
-                      className={`rounded-full px-2.5 py-1 text-xs font-semibold ${
-                        isDesktop
-                          ? 'bg-brand-blue/10 text-brand-blue'
-                          : 'bg-green-500/10 text-green-500'
-                      }`}
-                    >
-                      {badge}
-                    </span>
-                  </div>
-
-                  {/* ── Name ── */}
-                  <h3 className="text-text-primary mb-2 text-lg font-bold">
-                    {t(`platforms.${key}.name`)}
-                  </h3>
-
-                  {/* ── Description (flex-1 keeps visual block anchored) ── */}
-                  <p className="text-text-secondary mb-6 flex-1 text-sm">
-                    {t(`platforms.${key}.subtitle`)}
-                  </p>
-
-                  {/* ── Visual block: same height on all cards ── */}
-                  <div className="mb-5 flex flex-col items-center gap-2">
-                    {/* QR image with bird logo centred on top, or plain bird logo */}
-                    <div className="relative flex h-37 w-37 items-center justify-center">
-                      {qrSrc ? (
-                        <Image
-                          src={qrSrc}
-                          alt={`QR code for ${ctaLabel}`}
-                          width={148}
-                          height={148}
-                          className="border-border-default rounded-2xl border p-2"
-                        />
-                      ) : (
-                        <div className="border-border-default h-37 w-37 rounded-2xl border" />
-                      )}
-                      {/* Bird logo centred — on QR or on empty box */}
-                      <div className="absolute inset-0 flex items-center justify-center">
-                        <div className="bg-bg-base/90 rounded-xl p-1.5 shadow">
-                          <Image
-                            src="/images/vv/bird-logo.png"
-                            alt="V V AI"
-                            width={36}
-                            height={36}
-                            className="h-9 w-9 object-contain"
-                          />
-                        </div>
-                      </div>
-                    </div>
-                    {qrSrc && <p className="text-text-secondary text-xs">Scan to download</p>}
-                  </div>
-
-                  {/* ── Download button (orange, full-width, pinned bottom) ── */}
-                  {isMacOS ? (
-                    <button
-                      onClick={macOSProps?.onClick}
-                      className="inline-flex w-full items-center justify-center gap-2 rounded-xl bg-linear-to-r from-[#FFC43A] to-[#F68E0B] px-4 py-2.5 text-sm font-semibold text-white shadow-lg shadow-orange-500/25 transition-all duration-200 hover:-translate-y-0.5 hover:shadow-orange-500/40 active:scale-[0.98]"
-                    >
-                      <DownloadArrow />
-                      {ctaLabel}
-                    </button>
-                  ) : (
-                    <a
-                      href={downloadHref as string}
-                      {...(isDesktop
-                        ? { download: true }
-                        : { target: '_blank', rel: 'noopener noreferrer' })}
-                      className="inline-flex w-full items-center justify-center gap-2 rounded-xl bg-linear-to-r from-[#FFC43A] to-[#F68E0B] px-4 py-2.5 text-sm font-semibold text-white shadow-lg shadow-orange-500/25 transition-all duration-200 hover:-translate-y-0.5 hover:shadow-orange-500/40 active:scale-[0.98]"
-                    >
-                      <DownloadArrow />
-                      {ctaLabel}
-                    </a>
-                  )}
-                </GlassCard>
-              )
-
               return (
                 <ScrollReveal key={key} delay={i * 0.08}>
                   {isMacOS ? (
-                    <MacOSDownloadWithDialog locale={locale} translations={macOSDialog}>
-                      {(props) => renderCard(props)}
-                    </MacOSDownloadWithDialog>
+                    <MacOSCard
+                      locale={locale}
+                      icon={Icon}
+                      color={color}
+                      name={t(`platforms.${key}.name`)}
+                      subtitle={t(`platforms.${key}.subtitle`)}
+                      ctaLabel={ctaLabel}
+                      translations={macOSDialog}
+                    />
                   ) : (
-                    renderCard()
+                    <GlassCard hover className="flex h-full flex-col p-7">
+                      {/* ── Header: platform icon + badge ── */}
+                      <div className="mb-5 flex items-start justify-between">
+                        <div
+                          className="flex h-14 w-14 items-center justify-center rounded-2xl"
+                          style={{ backgroundColor: `${color}18`, color }}
+                        >
+                          <Icon className="h-7 w-7" />
+                        </div>
+                        <span
+                          className={`rounded-full px-2.5 py-1 text-xs font-semibold ${
+                            isDesktop
+                              ? 'bg-brand-blue/10 text-brand-blue'
+                              : 'bg-green-500/10 text-green-500'
+                          }`}
+                        >
+                          {badge}
+                        </span>
+                      </div>
+
+                      {/* ── Name ── */}
+                      <h3 className="text-text-primary mb-2 text-lg font-bold">
+                        {t(`platforms.${key}.name`)}
+                      </h3>
+
+                      {/* ── Description (flex-1 keeps visual block anchored) ── */}
+                      <p className="text-text-secondary mb-6 flex-1 text-sm">
+                        {t(`platforms.${key}.subtitle`)}
+                      </p>
+
+                      {/* ── Visual block: same height on all cards ── */}
+                      <div className="mb-5 flex flex-col items-center gap-2">
+                        {/* QR image with bird logo centred on top, or plain bird logo */}
+                        <div className="relative flex h-37 w-37 items-center justify-center">
+                          {qrSrc ? (
+                            <Image
+                              src={qrSrc}
+                              alt={`QR code for ${ctaLabel}`}
+                              width={148}
+                              height={148}
+                              className="border-border-default rounded-2xl border p-2"
+                            />
+                          ) : (
+                            <div className="border-border-default h-37 w-37 rounded-2xl border" />
+                          )}
+                          {/* Bird logo centred — on QR or on empty box */}
+                          <div className="absolute inset-0 flex items-center justify-center">
+                            <div className="bg-bg-base/90 rounded-xl p-1.5 shadow">
+                              <Image
+                                src="/images/vv/bird-logo.png"
+                                alt="V V AI"
+                                width={36}
+                                height={36}
+                                className="h-9 w-9 object-contain"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                        {qrSrc && <p className="text-text-secondary text-xs">Scan to download</p>}
+                      </div>
+
+                      {/* ── Download button (orange, full-width, pinned bottom) ── */}
+                      <a
+                        href={downloadHref as string}
+                        {...(isDesktop
+                          ? { download: true }
+                          : { target: '_blank', rel: 'noopener noreferrer' })}
+                        className="inline-flex w-full items-center justify-center gap-2 rounded-xl bg-linear-to-r from-[#FFC43A] to-[#F68E0B] px-4 py-2.5 text-sm font-semibold text-white shadow-lg shadow-orange-500/25 transition-all duration-200 hover:-translate-y-0.5 hover:shadow-orange-500/40 active:scale-[0.98]"
+                      >
+                        <DownloadArrow />
+                        {ctaLabel}
+                      </a>
+                    </GlassCard>
                   )}
                 </ScrollReveal>
               )
