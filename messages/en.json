@@ -1437,6 +1437,10 @@
       "label": "V V Work",
       "headline": "One-Stop Smart Collaboration Platform",
       "subline": "Connecting You to the \"V\" World of Intelligence",
+      "sublineBullets": [
+        "AI-driven workflows that eliminate repetitive tasks and unlock team potential",
+        "One unified platform for communication, documents, goals, and scheduling"
+      ],
       "tagline": "Smart · Convenient · Personalized · Collaborative",
       "keywords": ["Smart", "Convenient", "Personalized", "Collaborative"],
       "ctaLabel": "Explore V V Work",
@@ -1553,6 +1557,10 @@
       "label": "V V Life",
       "headline": "Your Personal and Reliable Smart Lifestyle Planner",
       "subline": "Connecting You to the \"V\" World of Convenience",
+      "sublineBullets": [
+        "A proactive AI companion that organises your daily tasks, services, and plans",
+        "Seamlessly connected lifestyle services — dining, travel, finance, and more"
+      ],
       "tagline": "Digital · Convenient · Comprehensive · Connected",
       "keywords": ["Digital", "Convenient", "Comprehensive", "Connected"],
       "ctaLabel": "Explore V V Life",
@@ -1616,6 +1624,10 @@
       "label": "V V Health",
       "headline": "Your Reliable, Quick-Response Health Manager",
       "subline": "Connecting You to the \"V\" World of Health",
+      "sublineBullets": [
+        "Real-time health monitoring with AI-powered insights and early risk alerts",
+        "Instant access to healthcare resources, appointments, and wellness support"
+      ],
       "tagline": "Smart · Reliable · Caring · Collaborative",
       "keywords": ["Smart", "Reliable", "Caring", "Collaborative"],
       "ctaLabel": "Explore V V Health",

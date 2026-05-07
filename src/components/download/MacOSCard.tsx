@@ -17,9 +17,6 @@ interface MacOSCardProps {
     howToCheck: string
     step1: string
     step2: string
-    intelLabel: string
-    appleLabel: string
-    orText: string
     noteText: string
     downloadIntel: string
     downloadApple: string
