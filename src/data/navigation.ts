@@ -49,9 +49,8 @@ export const FOOTER_LINKS = {
 }
 
 export const SOCIAL_LINKS = [
-  { label: 'LinkedIn', href: 'https://linkedin.com/company/vv-technology', icon: 'linkedin' },
-  { label: 'Twitter', href: 'https://twitter.com/vvtechnology', icon: 'twitter' },
-  { label: 'Facebook', href: 'https://facebook.com/vvtechnology', icon: 'facebook' },
+  { label: 'LinkedIn', href: 'https://sg.linkedin.com/company/vvai?trk=similar-pages', icon: 'linkedin' },
+  { label: 'Facebook', href: 'https://facebook.com/vvaisingapore', icon: 'facebook' },
 ]
 
 export { CDN }
