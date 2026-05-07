@@ -4,7 +4,11 @@ import { useState } from 'react'
 import MacOSDownloadDialog from './MacOSDownloadDialog'
 
 interface MacOSDownloadCardProps {
-  children: React.ReactNode
+  onClick: () => void
+}
+
+interface MacOSDownloadWithDialogProps {
+  children: (props: MacOSDownloadCardProps) => React.ReactNode
   translations: {
     title: string
     description: string
@@ -20,14 +24,12 @@ interface MacOSDownloadCardProps {
   }
 }
 
-export default function MacOSDownloadCard({ children, translations }: MacOSDownloadCardProps) {
+export default function MacOSDownloadWithDialog({ children, translations }: MacOSDownloadWithDialogProps) {
   const [isDialogOpen, setIsDialogOpen] = useState(false)
 
   return (
     <>
-      <div onClick={() => setIsDialogOpen(true)} className="cursor-pointer">
-        {children}
-      </div>
+      {children({ onClick: () => setIsDialogOpen(true) })}
       <MacOSDownloadDialog
         isOpen={isDialogOpen}
         onClose={() => setIsDialogOpen(false)}

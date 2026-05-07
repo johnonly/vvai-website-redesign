@@ -3,7 +3,7 @@ import GlassCard from '@/components/ui/GlassCard'
 import GradientText from '@/components/ui/GradientText'
 import ScrollReveal from '@/components/ui/ScrollReveal'
 import SectionLabel from '@/components/ui/SectionLabel'
-import MacOSDownloadCard from '@/components/ui/MacOSDownloadCard'
+import MacOSDownloadWithDialog from '@/components/ui/MacOSDownloadCard'
 import type { Metadata } from 'next'
 import { getTranslations } from 'next-intl/server'
 import Image from 'next/image'
@@ -187,8 +187,9 @@ export default async function DownloadPage({ params }: PageProps) {
               const { color, badge, downloadHref, qrSrc } = PLATFORM_CONFIG[key]
               const isDesktop = badge === 'Desktop'
               const ctaLabel = t(`platforms.${key}.cta`)
+              const isMacOS = key === 'macos'
 
-              const cardContent = (
+              const renderCard = (macOSProps?: { onClick: () => void }) => (
                 <GlassCard hover className="flex h-full flex-col p-7">
                   {/* ── Header: platform icon + badge ── */}
                   <div className="mb-5 flex items-start justify-between">
@@ -251,8 +252,11 @@ export default async function DownloadPage({ params }: PageProps) {
                   </div>
 
                   {/* ── Download button (orange, full-width, pinned bottom) ── */}
-                  {key === 'macos' ? (
-                    <button className="inline-flex w-full items-center justify-center gap-2 rounded-xl bg-linear-to-r from-[#FFC43A] to-[#F68E0B] px-4 py-2.5 text-sm font-semibold text-white shadow-lg shadow-orange-500/25 transition-all duration-200 hover:-translate-y-0.5 hover:shadow-orange-500/40 active:scale-[0.98]">
+                  {isMacOS ? (
+                    <button
+                      onClick={macOSProps?.onClick}
+                      className="inline-flex w-full items-center justify-center gap-2 rounded-xl bg-linear-to-r from-[#FFC43A] to-[#F68E0B] px-4 py-2.5 text-sm font-semibold text-white shadow-lg shadow-orange-500/25 transition-all duration-200 hover:-translate-y-0.5 hover:shadow-orange-500/40 active:scale-[0.98]"
+                    >
                       <DownloadArrow />
                       {ctaLabel}
                     </button>
@@ -273,10 +277,12 @@ export default async function DownloadPage({ params }: PageProps) {
 
               return (
                 <ScrollReveal key={key} delay={i * 0.08}>
-                  {key === 'macos' ? (
-                    <MacOSDownloadCard translations={macOSDialog}>{cardContent}</MacOSDownloadCard>
+                  {isMacOS ? (
+                    <MacOSDownloadWithDialog translations={macOSDialog}>
+                      {(props) => renderCard(props)}
+                    </MacOSDownloadWithDialog>
                   ) : (
-                    cardContent
+                    renderCard()
                   )}
                 </ScrollReveal>
               )
