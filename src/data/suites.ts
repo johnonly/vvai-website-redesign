@@ -205,7 +205,7 @@ export const SUITES: SuiteData[] = [
         device: 'desktop',
         headline: 'The Next Generation of School Management: AI-Powered, Human-Connected',
         subtitle:
-          'Powering education through AI—streamlining back-office operations and connecting headquarters to parents in one seamless ecosystem.',
+          'Powering education through AI—streamlining back-office operations and connecting schools to parents in one seamless ecosystem.',
       },
       {
         src: `${CDN}/V%20V%20Education/vv_education_img_EN_2.png`,
